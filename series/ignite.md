@@ -1,6 +1,6 @@
 ---
 layout: series-default
-title: IGNITE - small-town romance with a touch of heat
+title: IGNITE - small-town romance
 featuredDataFile: featured-ignite
 ---
-These heroes will put their lives on the line for their small town, before risking their hearts for love.
+These heroes will risk their lives for their small town, and their hearts for love.

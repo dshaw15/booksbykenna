@@ -27,4 +27,4 @@ First son will always inherit his father’s kingdom and the woman’s heart. As
 Now, a week before Christmas and I’m about to meet my online date. Interesting and funny, she needs a fake boyfriend for Christmas while I need a reason not to go home. No harm, no foul.
 Except Pia Morgan just walked into the café. The right woman, wrong time.
 
-**_Four women. One pact. Read them one at a time or get all four books in the complete Christmas Kisses series, including bonus epilogue._**
+**_Four women. One pact. Read them one at a time or get all four books in the complete [Christmas Kisses](https://www.amazon.com/gp/B07ZCH48FH/ "Christmas Kisses") series, including bonus epilogue._**

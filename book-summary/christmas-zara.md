@@ -31,4 +31,4 @@ He chose her.
 I don’t hate Christmas. I hate the memories of that one Christmas.
 Five years on and I still love him. But it will take more than making me laugh to win back my trust.
 
-**_Four women. One pact. Read them one at a time or get all four books in the complete Christmas Kisses series, including bonus epilogue._**
+**_Four women. One pact. Read them one at a time or get all four books in the complete [Christmas Kisses](https://www.amazon.com/gp/B07ZCH48FH/ "Christmas Kisses") series, including bonus epilogue._**

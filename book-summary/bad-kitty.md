@@ -15,7 +15,7 @@ AMSCA: https://www.amazon.ca/dp/B07N1XZM99/
 
 Read this exciting new romance today where YOU decide on Catherine's happily ever after. Change your mind? Then easily follow the links back to another choice.
 
-**Catherine** fell in love with **Zac** half a life time ago. Now, he's noticed her but only as the sweet young thing she used to be. Not as the happy go lucky Cat, and definitely not her inner Kitty who demands to be satisfied!
+**Catherine** fell in love with **Zac** half a life time ago. Now, he's noticed her but only as the sweet young thing she used to be. Not as the happy go lucky Cat, and definitely not her inner Kitty who demands to be satisfied.
 
 Tech nerds shouldn't look like dark and sexy **Darius who wants to unleash her inner Kitty**, and won't take 'no' for an answer. Then again, with panty-stripping kisses, why would she want to?
 
