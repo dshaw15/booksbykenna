@@ -1,7 +1,7 @@
 ---
 layout: book-summary
-title: Broken Trust
-image: broken-trust.png
+title: Broken Trust - City Sinners Book 1 - Erebus
+image: sinner-1-broken-trust.png
 altText: broken trust
 AMSUSA: https://www.amazon.com/gp/product/B07FCXFKGH/
 AMSAU: https://www.amazon.com.au/gp/product/B07FCXFKGH/
@@ -31,9 +31,13 @@ Cheating warning - Broken Trust starts with Erebus leaving after a night "workin
 
 Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
 
+**Why I loved Erebus and Felicity - author's note**
+Why do 'good girls' love 'bad boys'? 
+That's a question that I keep asking myself. What is it about them that makes us want to 'fix' them, especially when they don't want to be fixed.
+Erebus doesn't want to be fixed. He owns the mistakes he made, and has put his ego and reputation aside to save his parent's home. He's finally ready to move on with his life but what if he can't?
+Have you made a mistake that people can never forgive? Alternatively, are there hard limits to what you will and won't forgive?
+That's what I wanted to explore with Erebus and Felicity. Not only did I want to see his personal growth, I wanted to challenge Felicity on who she thought she was.
+I've come back and rewritten Broken Trust twice. I've recovered the book more than that. Now, he is as perfect on the page as he has always been in my heart. 
+And if you love Felicity and Erebus as much as I do, then check out the IGNITE series. That's right. Not only is Erebus going to search for his missing billion throughout **City Sinners**, but his new home in Meringa is about to be hit by a devastating bushfire. Get to know the small town firefighting heroes in **IGNITE**
 
-You'll get more of Erebus in the other City Sinners where his home becomes an sanctuary for women on the run from trouble.
-Other books with Erebus: [The Intern](https://www.amazon.com/gp/product/B078ZW34LX/ "The Intern"), [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") 
-Other books with Kitty: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty")
-Other books with Jade: [The Intern](https://www.amazon.com/gp/product/B078ZW34LX/ "The Intern") 
-Other books with Derek: [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife"); [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [A Billion Reasons Why](https://www.amazon.com/gp/product/B07C3G6YH7/ "A Billion Reasons Why"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
+Get [Broken Trust](https://mybook.to/BrokenTrustErebus/ "Broken Trust") today.

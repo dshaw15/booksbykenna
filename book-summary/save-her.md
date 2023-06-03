@@ -34,4 +34,3 @@ Other books with:
 - Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") and [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
 - Damon 'Mack' Mackenzie: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") and [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
 
-Check out my free short, stand-alone military romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 

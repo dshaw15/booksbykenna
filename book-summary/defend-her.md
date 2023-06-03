@@ -31,5 +31,3 @@ Other books with:
 - Captain Doug Whitehead: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 - Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her"), [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 - Ed's brother, Scott Alexander: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") and upcoming passion without rules "Dark Indulgences"
-
-Check out my free short, stand-alone military romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 

@@ -1,8 +1,8 @@
 ---
 layout: book-summary
-title: Playing with the Band in Lockdown - book 2
+title: Playing with the Band - book 2
 image: playing.png
-altText: playing with the band in lockdown - book 2
+altText: playing with the band - book 2
 AMSUSA: https://www.amazon.com/gp/product/B087QVQM7D/
 AMSAU: https://www.amazon.com.au/gp/product/B087QVQM7D/
 AMSUK: https://www.amazon.co.uk/gp/product/B087QVQM7D/
@@ -18,10 +18,10 @@ These five men will compete over anything. Cards, pool, lyrics. Me.
 Xavier might be my one, but with five sexy men competing for my body, quarantine just got a lot less boring.
 As long as Xavier’s jealousy and sibling rivalry stays under control Otherwise, my heart might not be the only thing that explodes.
 
-The second in the Loving the Band rockstar series, Playing with the Band in Lockdown, has one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
-Yes, there's cheating.
+The second in the Loving the Band rockstar series, *Playing with the Band*, has one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
+Yes, there's more than one man who wants her.
 Yes, there's loving.
-Yes, Yes, Yes. Get Seducing the Band in Lockdown, today.
+Yes, Yes, Yes. Get Seducing the Band, today.
 
 **_Tell me what you want_, Xavier asks.** Find out why in your free, quick read prequel to rockstar reverse harem romances: [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1/ "Dirty Blonde").
 
@@ -80,4 +80,4 @@ A man who took without asking.
 
 I was so screwed.
 
-**Get book two in this sexy rockstar reverse harem romance, [Playing with the Band in Lockdown](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band in Lockdown") today.**
+**Get book two in this sexy rockstar reverse harem romance, [Playing with the Band](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band") today.**

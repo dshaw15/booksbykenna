@@ -1,8 +1,8 @@
 ---
 layout: book-summary
-title: Reuniting the Band in Lockdown - book 4
+title: Reuniting the Band - book 4
 image: reuniting.png
-altText: reuniting the band in lockdown - book 4
+altText: reuniting the band - book 4
 AMSUSA: https://www.amazon.com/gp/product/B08BK5PWL3/
 AMSAU: https://www.amazon.com.au/gp/product/B08BK5PWL3/
 AMSUK: https://www.amazon.co.uk/gp/product/B08BK5PWL3/
@@ -22,9 +22,9 @@ Now, I'm forced to face a world where women want my men while putting the band I
 **Xavier**
 Suddenly, I'm a man in demand. Respected by my legendary brother, feted by a world of women, with a rockstar lifestyle mine to take. But my band is being torn apart by our love for a woman. My woman is being torn from my life by her past and there's nothing I can do to save her. But if we don’t find a way to reunite the band, will we even have a future?
 
-Following on from quick reads [Seducing the Band in Lockdown](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band in Lockdown") and [Playing with the Band in Lockdown](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band in Lockdown"), [Enjoying the Band in Lockdown], and the full length, [Enjoying the Band in Lockdown](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band in Lockdown"), and [Reuniting the Band in Lockdown](https://www.amazon.com/gp/product/B08BK5PWL3/ "Reuniting the Band in Lockdown") is full length, can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
-Yes, there's cheating.
+Following on from quick reads [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band") and [Playing with the Band](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band"), [Enjoying the Band], and the full length, [Enjoying the Band](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band"), and [Reuniting the Band](https://www.amazon.com/gp/product/B08BK5PWL3/ "Reuniting the Band") is full length, can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
+Yes, there's more than one man who wants her.
 Yes, there's loving.
-Yes, Yes, Yes. Get Reuniting the Band in Lockdown, today.
+Yes, Yes, Yes. Get Reuniting the Band, today.
 
 **_Tell me what you want_, Xavier asks.** Find out why in your free, quick read prequel to rockstar reverse harem romances: [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1/ "Dirty Blonde").

@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Hard Bargain - City Sinners Book 3 - Ibby
-image: hard-bargain.png
+image: sinner-3-hard-bargain.png
 altText: hard bargain - city sinners book 3 - Ibby
 AMSUSA: https://www.amazon.com/gp/product/B08FG2K96V/
 AMSAU: https://www.amazon.com.au/gp/product/B08FG2K96V/
@@ -28,4 +28,4 @@ In the world of nightclubs and dubious deals and dirty money comes a sexy, new h
 Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
 
 You'll get more of Ibby in the other City Sinners where his nightclubs are an exiting backdrop to romance. 
-Or check out rockstar romance, [Reuniting the Band in Lockdown](https://www.amazon.com/dp/B08FG2K96V/ "Reuniting the Band in Lockdown") when he saves the life of rockstar Xavier Galis from an angry mobster.
+Or check out rockstar romance, [Reuniting the Band](https://www.amazon.com/dp/B08FG2K96V/ "Reuniting the Band") when he saves the life of rockstar Xavier Galis from an angry mobster.

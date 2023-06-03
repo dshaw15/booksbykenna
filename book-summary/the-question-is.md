@@ -28,7 +28,7 @@ So much more than a **love triangle**, get your copy today.
 > A modern love triangle where you get to decide if Grace's future is with a Seth or Sienna.
 > 
 > Written when Australia was conducting a postal vote on the legalisation of same-sex-marriage, every word is from my heart. Love is love and I am thrilled that all my friends are equal to experience the challenge and joy of marriage.
-> Same sex warning - don't read if it is going to offend.
+> Same sex warning - I can't believe I have to include this, but here goes. Don't read if it is going to offend.
 > Cheating warning - As Grace explores who she is and what she wants out of life, there are times when she turns to Seth. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which love will be her happily ever after.
 > 
 > Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 

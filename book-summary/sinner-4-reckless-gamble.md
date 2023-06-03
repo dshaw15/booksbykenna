@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Reckless Gamble - City Sinners Book 4 - Scott
-image: reckless-gamble.png
+image: sinner-4-reckless-gamble.png
 altText: reckless gamble - city sinners book 4 - Scott
 AMSUSA: https://www.amazon.com/gp/product/B08HXGYPV6/
 AMSAU: https://www.amazon.com.au/gp/product/B08HXGYPV6/

@@ -1,8 +1,8 @@
 ---
 layout: book-summary
-title: Enjoying the Band in Lockdown - book 3
+title: Enjoying the Band - book 3
 image: enjoying.png
-altText: enjoying the band in lockdown - book 3
+altText: enjoying the band - book 3
 AMSUSA: https://www.amazon.com/gp/product/B089QVGGQV/
 AMSAU: https://www.amazon.com.au/gp/product/B089QVGGQV/
 AMSUK: https://www.amazon.co.uk/gp/product/B089QVGGQV/
@@ -20,10 +20,10 @@ I knew there would be consequences in enjoying Xavier and his band. But in choos
 **Xavier**
 I didn’t expect the competition to be so ruthless. As one-by-one my band has fallen in love with my woman, how can I keep my jealousy under control until after the concert? Or will Sydney’s secrets prove to be our greatest threat?
 
-Following on from quick reads [Seducing the Band in Lockdown](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band in Lockdown") and [Playing with the Band in Lockdown](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band in Lockdown"), [Enjoying the Band in Lockdown], Enjoying the Band in Lockdown is full length, can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
-Yes, there's cheating.
+Following on from quick reads [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band") and [Playing with the Band](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band"), [Enjoying the Band], Enjoying the Band is full length, can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
+Yes, there's multiple men with one woman.
 Yes, there's loving.
-Yes, Yes, Yes. Get Enjoying the Band in Lockdown, today.
+Yes, Yes, Yes. Get Enjoying the Band, today.
 
 **_Tell me what you want_, Xavier asks.** Find out why in your free, quick read prequel to rockstar reverse harem romances: [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1/ "Dirty Blonde").
 
@@ -122,4 +122,4 @@ _Anon: If I can find your number, I can find you._
 
 _Anon: CU soon._
 
-**Get book three in this sexy rockstar reverse harem romance, [Enjoying the Band in Lockdown](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band in Lockdown") today.**
+**Get book three in this sexy rockstar reverse harem romance, [Enjoying the Band](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band") today.**

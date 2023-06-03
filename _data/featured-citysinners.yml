@@ -1,16 +1,20 @@
-- image: broken-trust.png
+- image: sinner-0-billionaire-sins.png
+  title: Billionaire Sins
+  content: A tech billionaire who thought he could hide his sins behind his secret identity, until he met a woman who demanded honesty.
+  page: sinner-0-billionaire-sins
+- image: sinner-1-broken-trust.png
   title: Broken Trust
-  content: When the lights go down, deals are done and trust is broken. Can Erebus hide his past without losing his future?
-  page: broken-trust
-- image: random-fantasies.png
+  content: One mistake cost him his reputation and name. Can Erebus hide his past without losing his future?
+  page: sinner-1-broken-trust
+- image: sinner-2-random-fantasies.png
   title: Random Fantasies
   content: Forgotten nights. Past regrets. A secret baby that isn't his. Can Darius protect the woman he loves and the baby that isn't his?
-  page: random-fantasies
-- image: hard-bargain.png
+  page: sinner-2-random-fantasies
+- image: sinner-3-hard-bargain.png
   title: Hard Bargain
   content: Ibby thought he was smarter. He thought he had it under control. But when the bikie war hits his nightclubs, it is Katie's life he needs to save.
-  page: hard-bargain
-- image: reckless-gamble.png
+  page: sinner-3-hard-bargain
+- image: sinner-4-reckless-gamble.png
   title: Reckless Gamble
-  content: GG shouldn't trust her life to the way I play my cards. She shouldn't, but she does. For her sake, I cannot lose.
-  page: reckless-gamble
+  content: GG shouldn't trust her life to the way Scott play my cards. She shouldn't, but she does. For her sake, he cannot lose.
+  page: sinner-4-reckless-gamble

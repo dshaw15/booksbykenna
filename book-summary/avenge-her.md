@@ -35,4 +35,3 @@ Other books with:
 - Damon 'Mack' Mackenzie: [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") 
 - Captain Doug Whitehead: [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 
-Check out my free short, stand-alone military romance with Scout: [Have You Met ... Scout]({{ site.baseurl }}/book-summary/have-you-met-scout.html "Have You Met ... Scout"). 

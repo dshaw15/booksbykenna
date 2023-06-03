@@ -45,7 +45,5 @@ Make your choice, today.
 > Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
 
 Other books with Nina: [The Intern](https://www.amazon.com/dp/B078ZW34LX/ "The Intern") [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts") 
-Other books with Derek: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [A Billion Reasons Why](https://www.amazon.com/gp/product/B07C3G6YH7/ "A Billion Reasons Why"); [Who Is Erebus?](https://www.amazon.com/gp/product/B07FCXFKGH/ "Who Is Erebus?"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
+Other books with Derek: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
 Other books with Roland: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
-
-Sign up to my newsletter and get your [FREE prequel](https://dl.bookfunnel.com/6cgn89gdke "Once Upon a Love Story") to Nina and Derek's love story.

@@ -1,13 +1,16 @@
 ---
 layout: book-summary
-title: Random Fantasies
-image: random-fantasies.png
+title: Random Fantasies - City Sinners Book 2 - Darius
+image: sinner-2-random-fantasies.png
 altText: random fantasies
 AMSUSA: https://www.amazon.com/gp/product/B07W1GMDJD/
 AMSAU: https://www.amazon.com.au/gp/product/B07W1GMDJD/
 AMSUK: https://www.amazon.co.uk/gp/product/B07W1GMDJD/
 AMSCA: https://www.amazon.ca/gp/product/B07W1GMDJD/
 ---
+## Temporarily unavailable while I rewrite from third person to first person
+Continue the City Sinners series with [Hard Bargain](https://mybook.to/HardBargain/ "Hard Bargain") while you wait.
+
 ## Darius doesn't care that the baby she is carrying isn't his
 
 **Darius**

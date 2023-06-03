@@ -42,7 +42,6 @@ These three men send Jade’s head and heart spinning. Who will Jade end up with
 > I love Jade's strength, passion for life and belief that despite all, she deserves to find love and a happily ever after that is right for her.
  
 
-Other books with Jade: [Professed Love](https://dl.bookfunnel.com/xok9c7xikv "Professed Love") a FREE prequel to Jade and her Professor
-Other books with Derek: [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife"); [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [A Billion Reasons Why](https://www.amazon.com/gp/product/B07C3G6YH7/ "A Billion Reasons Why"); [Who Is Erebus?](https://www.amazon.com/gp/product/B07FCXFKGH/ "Who Is Erebus?"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
-Other books with Mason: [A Billion Reasons Why](https://www.amazon.com/gp/product/B07C3G6YH7/ "A Billion Reasons Why") when Mason Winters gets his own happily ever after
-Other books with Erebus: [Who Is Erebus?](https://www.amazon.com/gp/product/B07FCXFKGH/ "Who Is Erebus?")
+Other books with Derek: [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife"); [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
+Other books with Mason: [Billionaire Sins](https://bookhip.com/TNRAJQN/ "Billionaire Sins") when Mason Winters gets his own happily ever after
+Other books with Erebus: [Broken Trust](https://mybook.to/BrokenTrustErebus/ "Broken Trust")
