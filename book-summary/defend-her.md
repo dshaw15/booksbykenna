@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B07TSTD7N3/
 
 ## Lieutenant Colonel Ed Alexander never wanted to be a babysitter - until he met the Colonel's daughter.
 
-_alpha male | military brat | favor for his former commanding officer | kidnapped | enemies to lovers | he'll burn down the world for her | past trauma | abusive ex | healing | kindleunlimited_
+_alpha male ~ military brat ~ favor for his former commanding officer ~ kidnapped ~ enemies to lovers ~ he'll burn down the world for her ~ past trauma ~ abusive ex ~ healing ~ kindleunlimited_
 
 **Lieutenant Colonel Edison (Ed) Alexander** 
 

@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/gp/product/B08BK5PWL3/
 
 ## Why Choose one rockstar when you can love them all
 
-_why choose | rockstar romance | MFM | secret identity | she's forced to face her past | jealous lovers | she loves them all | kidnapped | kindleunlimited_
+_why choose ~ rockstar romance ~ MFM ~ secret identity ~ she's forced to face her past ~ jealous lovers ~ she loves them all ~ kidnapped ~ kindleunlimited_
 
 **The band is broken. My heart is shattered. Is there anything left to reunite?**
 Eventually, I’m going to have to deal with the threatening texts, or keep running. Only this time, I don’t know if Xavier will find his way out of the bottle long enough to notice, or to care.**

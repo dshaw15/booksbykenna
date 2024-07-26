@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B07J1V9GV8/
 
 ## Darby will do anything to avenge the woman he loves.
 
-_best friend's sister | alpha hero | military romance | burn down the world for the woman he loves | she fell first, he fell harder | kindleunlimited_
+_best friend's sister ~ alpha hero ~ military romance ~ burn down the world for the woman he loves ~ she fell first, he fell harder ~ kindleunlimited_
 
 *Avenge Her is for every woman who refuses to be a statistic. Written with an honesty, sensitivity and quiet strength that will capture your heart from the very first page.*
 

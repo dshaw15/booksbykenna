@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B0CG84XQCF/
 
 ## I'm so excited to share the book 1 in my new Rockstar Dreams series in the Well Played anthology.
 
-_heroine with disability | washed up rockstar | friends to lovers | secret identity | romance anthology_
+_heroine with disability ~ washed up rockstar ~ friends to lovers ~ secret identity ~ romance anthology_
 
 Stuck playing the club circuit instead of touring with a band, Tony de Marco grapples with his feelings for two women. Teasing Georgia refuses to take their online friendship into the real world while the chemistry with Rose threatens to break through the friend zone.
 Rose waited a year for Tony to see past her wheelchair, for the first date, and first kiss.

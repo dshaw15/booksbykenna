@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B07N1XZM99/
 
 ## One woman. Three men. Your choice.
 
-_love triangle | loving her boss | first love | instalove | choose your own romance | forbidden love | they'll burn down the world for her | she loves them all but can only choose one | kindleunlimited_
+_love triangle ~ loving her boss ~ first love ~ instalove ~ choose your own romance ~ forbidden love ~ they'll burn down the world for her ~ she loves them all but can only choose one ~ kindleunlimited_
 
 **With her heart torn three ways, Catherine can't choose. That's why she needs you to decide for her.**
 

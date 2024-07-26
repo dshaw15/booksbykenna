@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/gp/product/B0B4HC47N3/
 
 ## He was a footballer, not a hero. She never wanted to be saved. But when fires burn, will love IGNITE??
 
-_instant attraction | enemies to lovers | she fell first, he fell harder | australian bushfire | small town | firefighting hero | past trauma | risk lives for love | kindleunlimited_
+_instant attraction ~ enemies to lovers ~ she fell first, he fell harder ~ australian bushfire ~ small town ~ firefighting hero ~ past trauma ~ risk lives for love ~ kindleunlimited_
 
 **Ethan**
 She. Hit. Me.

@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/gp/product/B087YTB5J7/
 
 ## Why Choose one rockstar when you can love them all
 
-_why choose | rockstar romance | MFM | secret identity | she's running from her past | they use her as their muse | jealous lovers | she loves them all | steamy | kindleunlimited_
+_why choose ~ rockstar romance ~ MFM ~ secret identity ~ she's running from her past ~ they use her as their muse ~ jealous lovers ~ she loves them all ~ steamy ~ kindleunlimited_
 
 **Running from my past, I never expected one night with The Flying Monkeys' lead singer to find me spending lockdown with the band.**
 

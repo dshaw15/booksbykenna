@@ -9,7 +9,7 @@ altText: MATCH - a small town first responder romance
 
 [MATCH](https://dl.bookfunnel.com/7odzqk7vkq/ "MATCH")
 
-_free series starter | instalove | long distance romance | australian bushfire | small town | firefighting hero | small town girl | risk lives for love_
+_free series starter ~ instalove ~ long distance romance ~ australian bushfire ~ small town ~ firefighting hero ~ small town girl ~ risk lives for love_
 
 ## This small-town hero just met his MATCH ##
 

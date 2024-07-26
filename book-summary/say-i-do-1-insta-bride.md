@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B0927Z772G/
 
 ## I can't fall in love with my husband
 
-_opposites attract | forced proximity | romantic comedy | banterific | fake marriage | money or love | kindleunlimited_
+_opposites attract ~ forced proximity ~ romantic comedy ~ banterific ~ fake marriage ~ money or love ~ kindleunlimited_
 
 **Elena**
 

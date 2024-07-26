@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B0CW185J8H/
 
 ## Will a second chance at the career I love cost me the woman I've always loved? 
 
-_rugby league romance | best friend's sister | forbidden love | age gap | secret job | wallflower | sports romance | kindleunlimited_
+_rugby league romance ~ best friend's sister ~ forbidden love ~ age gap ~ secret job ~ wallflower ~ sports romance ~ kindleunlimited_
 
 **Maverick**
 

@@ -6,7 +6,7 @@ altText: dirty blonde - free prequel to loving the band
 BF: https://dl.bookfunnel.com/87mn2uvtd1
 ---
 
-_free series starter | rockstar romance | secret identity | running from her past | instalove | he saw her first_
+_free series starter ~ rockstar romance ~ secret identity ~ running from her past ~ instalove ~ he saw her first_
 
 **_Tell me what you want_, Xavier asked, his eyes and body mine to command.**
 

@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/gp/product/B086H8SPCC/
 
 ## After the flames, can Reece and Zoe find love?
 
-_instant attraction | friends to lovers | she fell first, he fell harder | australian bushfire | small town | firefighting hero | past trauma | risk lives for love | kindleunlimited_
+_instant attraction ~ friends to lovers ~ she fell first, he fell harder ~ australian bushfire ~ small town ~ firefighting hero ~ past trauma ~ risk lives for love ~ kindleunlimited_
 
 **Reece**
 Australia’s favorite firefighter, rose to fame as the face of hope during the devastation of 2020. 

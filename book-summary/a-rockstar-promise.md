@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/gp/product/B0CMC5JVV4/
 
 ## Before Shae became The Rockstar's Wife, there was a rockstar's promise. 
 
-_rockstar romance | broken heart | she's running from her past | he fell first and risks his band to love her | she refuses to trust and thinks she can separate her body from her heart \ kindleunlimited_
+_rockstar romance ~ broken heart ~ she's running from her past ~ he fell first and risks his band to love her ~ she refuses to trust and thinks she can separate her body from her heart ~ kindleunlimited_
 
 **I promised myself - never again**
 _Never again_ would I fall in love with a rockstar. _Never again_ would I believe a rockstar's promise.

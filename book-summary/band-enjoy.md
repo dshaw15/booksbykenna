@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/gp/product/B089QVGGQV/
 
 ## Rockstars meet Reverse Harem with a touch of suspense
 
-_why choose | rockstar romance | MFM | secret identity | she's running from her past | jealous lovers | she loves them all | her ex finds her | kindleunlimited_
+_why choose ~ rockstar romance ~ MFM ~ secret identity ~ she's running from her past ~ jealous lovers ~ she loves them all ~ her ex finds her ~ kindleunlimited_
 
 **Now the competition is becoming real, the concert days away and Jax isn’t the only one messing with my mind.**
 Eventually, I’m going to have to deal with the threatening texts, or keep running. Only this time, I don’t know if Xavier will find his way out of the bottle long enough to notice, or to care.**

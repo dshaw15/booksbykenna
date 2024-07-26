@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B0CN82WW5B/
 
 ## I'm so excited to share the prequel to my rugby league sports romance series in the Well Played anthology.
 
-_single father | daughter's teacher | forbidden love | age gap | secret job | sports romance anthology_
+_single father ~ daughter's teacher ~ forbidden love ~ age gap ~ secret job ~ sports romance anthology_
 
 Bronx Parker’s life shattered when his ex-wife’s betrayal not only cost him his career but nearly his daughter. 
 Determined to rebuild, he seizes the opportunity to coach a new rugby league team, the Southern Mavericks, under a veil of secrecy. 
