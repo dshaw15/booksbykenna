@@ -1,26 +1,28 @@
 ---
 layout: book-summary
-title: HEAT - a small town first responder romance
-image: ignite-3-heat.png
-altText: heat - a small town first responder romance
-AMSUSA: https://www.amazon.com/gp/product/B086H8SPCC/
-AMSAU: https://www.amazon.com.au/gp/product/B086H8SPCC/
-AMSUK: https://www.amazon.co.uk/gp/product/B086H8SPCC/
-AMSCA: https://www.amazon.ca/gp/product/B086H8SPCC/
+title: IGNITE - a small town first responder romance
+image: ignite-2-ignite.png
+altText: ignite - a small town first responder romance
+AMSUSA: https://www.amazon.com/gp/product/B0B4HC47N3/
+AMSAU: https://www.amazon.com.au/gp/product/B0B4HC47N3/
+AMSUK: https://www.amazon.co.uk/gp/product/B0B4HC47N3/
+AMSCA: https://www.amazon.ca/gp/product/B0B4HC47N3/
 ---
-## After the flames, can Reece and Zoe find love?
 
-**Reece**
-Australia’s favorite firefighter, rose to fame as the face of hope during the devastation of 2020. 
-He’s hot, and he knows it. Every woman in the world seems to want him.
-But the only woman he wants has only ever seen him as a friend.
+## He was a footballer, not a hero. She never wanted to be saved. But when fires burn, will love IGNITE??
 
-**Zoe** has no house, no job an no reason to stay in town. Except for her friendship with Reece.
-Working together to rebuild their town ignites a passion she never expected. 
+_instant attraction ~ enemies to lovers ~ she fell first, he fell harder ~ australian bushfire ~ small town ~ firefighting hero ~ past trauma ~ risk lives for love ~ kindleunlimited_
 
-But when Zoe is offered her dream job thousands of miles away, Reece makes the decision for her. “Trust me,” he once said. 
-Can she, or will their love turn to ash?
+**Ethan**
+She. Hit. Me.
+My first day in town and my truck is wrecked and I'm already regretting all of my life's choices that lead me to here. I'm here to play football, not play firefighter. If that's not good enough for this small town, then I'll find another as soon as my truck is fixed.
+Rylee's sexy, sassy, and full of surprises. But I'm not looking for the perfect woman - even if she crashes into me.
 
+**Rylee**
+He's not my type.
+I'm done with footballers. I'm done with sexy AF men who can have any woman they want. I'm done. Except, Ethan is more than a footballer. He's more than his billion-watt smile. But if he's not ready to be part of our small town, then we have nothing to IGNITE.
+
+[MATCH](https://dl.bookfunnel.com/7odzqk7vkq/ "MATCH") - insta love - Campbell and Natalia
 [SPARK](https://mybook.to/IGNITE-SPARK/ "SPARK") - slow burn - Bailey and Shar
 [IGNITE](http://mybook.to/IGNITE/ "IGNITE") - enemies to lovers - Ethan and Rylee (full-length novel)
 [HEAT](http://mybook.to/IgniteHEAT/ "HEAT") - friends to lovers - Reece and Zoe (full-length novel)

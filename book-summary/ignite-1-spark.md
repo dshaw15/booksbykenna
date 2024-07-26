@@ -8,7 +8,10 @@ AMSAU: https://www.amazon.com.au/gp/product/B0C54VCTRR/
 AMSUK: https://www.amazon.co.uk/gp/product/B0C54VCTRR/
 AMSCA: https://www.amazon.ca/gp/product/B0C54VCTRR/
 ---
+
 ## Fall in love with the men and town of Meringa - where it only takes a SPARK to IGNITE romance
+
+_friends to lovers ~ widowed single mother ~ slow burn romance ~ australian bushfire ~ small town ~ firefighting hero ~ small town girl ~ risk lives for love_
 
 In the small Australian town of Meringa, the only thing hotter than the bushfires, are the sportsmen and firefighters.
 

@@ -1,8 +1,8 @@
 ---
 layout: book-summary
-title: Enjoying the Band - book 3
-image: enjoying.png
-altText: enjoying the band - book 3
+title: Enjoying the Band - book 2
+image: band-2-enjoying.png
+altText: enjoying the band - book 2
 AMSUSA: https://www.amazon.com/gp/product/B089QVGGQV/
 AMSAU: https://www.amazon.com.au/gp/product/B089QVGGQV/
 AMSUK: https://www.amazon.co.uk/gp/product/B089QVGGQV/
@@ -10,6 +10,8 @@ AMSCA: https://www.amazon.ca/gp/product/B089QVGGQV/
 ---
 
 ## Rockstars meet Reverse Harem with a touch of suspense
+
+_why choose ~ rockstar romance ~ MFM ~ secret identity ~ she's running from her past ~ jealous lovers ~ she loves them all ~ her ex finds her ~ kindleunlimited_
 
 **Now the competition is becoming real, the concert days away and Jax isn’t the only one messing with my mind.**
 Eventually, I’m going to have to deal with the threatening texts, or keep running. Only this time, I don’t know if Xavier will find his way out of the bottle long enough to notice, or to care.**
@@ -20,7 +22,7 @@ I knew there would be consequences in enjoying Xavier and his band. But in choos
 **Xavier**
 I didn’t expect the competition to be so ruthless. As one-by-one my band has fallen in love with my woman, how can I keep my jealousy under control until after the concert? Or will Sydney’s secrets prove to be our greatest threat?
 
-Following on from quick reads [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band") and [Playing with the Band](https://www.amazon.com/gp/product/B087QVQM7D/ "Playing with the Band"), [Enjoying the Band], Enjoying the Band is full length, can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
+Following on from [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band"), Enjoying the Band can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
 Yes, there's multiple men with one woman.
 Yes, there's loving.
 Yes, Yes, Yes. Get Enjoying the Band, today.

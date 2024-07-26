@@ -1,12 +1,12 @@
 ---
 layout: book-summary
 title: Protect Her
-image: protect-her.png
+image: military-2-protect-her.png
 altText: Protect her
-AMSUSA: 
-AMSAU:
-AMSUK:
-AMSCA:
+AMSUSA: https://www.amazon.com/gp/product/B07J429XPV
+AMSAU: https://www.amazon.com.au/gp/product/B07J429XPV
+AMSUK: https://www.amazon.co.uk/gp/product/B07J429XPV
+AMSCA: https://www.amazon.ca/gp/product/B07J429XPV
 ---
 
 ## To protect her from his future, Mack needed to man up and let her go.

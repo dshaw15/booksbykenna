@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Defend Her
-image: defend-her.png
+image: military-4-defend-her.png
 altText: Defend Her
 AMSUSA: https://www.amazon.com/dp/B07TSTD7N3/
 AMSAU: https://www.amazon.com.au/dp/B07TSTD7N3/
@@ -11,7 +11,7 @@ AMSCA: https://www.amazon.ca/dp/B07TSTD7N3/
 
 ## Lieutenant Colonel Ed Alexander never wanted to be a babysitter - until he met the Colonel's daughter.
 
-_This book is for Defence Brats the world over. Thank you for your sacrifice._
+_alpha male ~ military brat ~ favor for his former commanding officer ~ kidnapped ~ enemies to lovers ~ he'll burn down the world for her ~ past trauma ~ abusive ex ~ healing ~ kindleunlimited_
 
 **Lieutenant Colonel Edison (Ed) Alexander** 
 
@@ -30,4 +30,4 @@ Other books with:
 - Lieutenant Colonel Edison Alexander: [The Perfect Wife](https://www.amazon.com/gp/product/B07NBKTXY9/ "The Perfect Wife") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 - Captain Doug Whitehead: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
 - Captain Darby Greenwood: [Avenge Her](https://www.amazon.com/dp/B07J1V9GV8/ "Avenge Her"), [Protect Her](https://www.amazon.com/dp/B07J429XPV/ "Protect Her") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
-- Ed's brother, Scott Alexander: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") and upcoming passion without rules "Dark Indulgences"
+- Ed's brother, Scott Alexander: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") and [Reckless Gamble](https://www.amazon.com/dp/B08HXGYPV6/ "Reckless Gamble")
