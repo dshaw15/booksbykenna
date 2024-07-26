@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Seducing the Band - book 1
-image: seduce.png
+image: band-1-seduce.png
 altText: seducing the band - book 1
 AMSUSA: https://www.amazon.com/gp/product/B087YTB5J7/
 AMSAU: https://www.amazon.com.au/gp/product/B087YTB5J7/
@@ -9,7 +9,9 @@ AMSUK: https://www.amazon.co.uk/gp/product/B087YTB5J7/
 AMSCA: https://www.amazon.ca/gp/product/B087YTB5J7/
 ---
 
-## Rockstars meet Reverse Harem with a touch of suspense
+## Why Choose one rockstar when you can love them all
+
+_why choose | rockstar romance | MFM | secret identity | she's running from her past | they use her as their muse | jealous lovers | she loves them all | steamy | kindleunlimited_
 
 **Running from my past, I never expected one night with The Flying Monkeys' lead singer to find me spending lockdown with the band.**
 

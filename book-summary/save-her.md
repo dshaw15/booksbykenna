@@ -1,7 +1,7 @@
 ---
 layout: book-summary
 title: Save Her
-image: save-her.png
+image: military-3save-her.png
 altText: Save Her
 AMSUSA: https://www.amazon.com/dp/B07QXP78SZ/
 AMSAU: https://www.amazon.com.au/dp/B07QXP78SZ/

@@ -8,9 +8,10 @@ altText: MATCH - a small town first responder romance
 ## Before the firestorm, it will only take a MATCH for romance to IGNITE
 
 [MATCH](https://dl.bookfunnel.com/7odzqk7vkq/ "MATCH")
-**Free short romance**
 
-This small-town hero just met his MATCH
+_free series starter | instalove | long distance romance | australian bushfire | small town | firefighting hero | small town girl | risk lives for love_
+
+## This small-town hero just met his MATCH ##
 
 Too young to be head of the family and too old to keep running away, Campbell Mettner returned to his Australian seaside hometown of Meringa for a weekend of cold beer and hot babes. Except, the cold beer came with a hot chili beef burger and a hotter café owner who could just be the reason he was looking for.
 

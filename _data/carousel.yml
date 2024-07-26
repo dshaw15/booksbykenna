@@ -1,3 +1,23 @@
+- title: Series Starters
+  image: web-banner-series-starters.png
+  altText: Start at the beginning with these series starter
+  page: series/series-starters
+- title: Southern Mavericks Rugby League Sports Romance
+  image: web-banner-southern-mav.png
+  altText: Southern Mavericks - rugby league sports romance series
+  page: series/southern-mav
+- title: Say I Do
+  image: web-banner-say-i-do.png
+  altText: Say I Do banterific series
+  page: series/say-i-do
+- title: Rockstar Dreams
+  image: web-banner-rockstar-dreams.png
+  altText: Rockstar Dreams - rockstar romance series featuring heroines with disability
+  page: series/rockstar-dreams
+- title: Free Books
+  image: web-banner-free-books.png
+  altText: free books when you subscribe to my newsletter
+  page: series/free-books
 - title: IGNITE
   image: web-banner-ignite.png
   altText: IGNITE series
@@ -6,9 +26,9 @@
   image: web-banner-military-series.png
   altText: military series
   page: series/aussie-military-romance
-- title: Loving the Band reverse harem
+- title: Loving the Band why choose
   image: web-banner-loving-the-band.png
-  altText: loving the band series
+  altText: loving the band why choose rockstar romance series
   page: series/loving-the-band
 - title: City Sinners
   image: web-banner-city-sinners.png
