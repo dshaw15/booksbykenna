@@ -14,10 +14,6 @@
   image: web-banner-rockstar-dreams.png
   altText: Rockstar Dreams - rockstar romance series featuring heroines with disability
   page: series/rockstar-dreams
-- title: Free Books
-  image: web-banner-free-books.png
-  altText: free books when you subscribe to my newsletter
-  page: series/free-books
 - title: IGNITE
   image: web-banner-ignite.png
   altText: IGNITE series
@@ -54,3 +50,7 @@
   image: web-banner-romance.png
   altText: romance with passion
   page: series/romance-with-passion
+- title: Free Books
+  image: web-banner-free-books.png
+  altText: free books when you subscribe to my newsletter
+  page: series/free-books

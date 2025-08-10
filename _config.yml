@@ -1,6 +1,6 @@
 title: Books by Kenna
 description: Kenna Shaw Reed author web site.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 excerpt_separator: <!--more-->
@@ -8,6 +8,8 @@ excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
 theme: minima
+sass: 
+  style: compressed
 gems:
   - jekyll-feed
 exclude:
