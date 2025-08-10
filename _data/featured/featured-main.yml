@@ -1,32 +1,40 @@
-- image: say-i-do-2-kiss-the-bride.png
+- cover: say-i-do-2-kiss-the-bride.png
   title: Kiss the Bride
   content: Olivia never thought she'd be a runaway bride. Hunter was her first love and now her best friend. But would a second chance be a rebound or real?
   page: say-i-do-2-kiss-the-bride
-- image: mav-1-maverick.png
+- cover: mav-1-maverick.png
   title: Playing the Maverick
   content: Maverick's fallen in love with his best friend's sister but will it cost him a second chance in the career he loves?
   page: mav-1-maverick
-- image: sinner-4-reckless-gamble.png
+  tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Forbidden Love"
+    - "Secret Identity"
+    - "Best Friend's Sister"
+    - "Found Family"
+  buy_url: "https://mybook.to/PlayingTheMaverick"
+- cover: sinner-4-reckless-gamble.png
   title: Reckless Gamble
   content: GG shouldn't trust her life to the way Scott plays his cards. She shouldn't, but she does. For her sake, he cannot lose.
   page: sinner-4-reckless-gamble
-- image: a-rockstar-promise.png
+- cover: a-rockstar-promise.png
   title: A Rockstar's Promise
   content: I promised never again. I'd never trust another rockstar with my heart. Then, I met Cruz.
   page: a-rockstar-promise
-- image: band-3-reuniting.png
+- cover: band-3-reuniting.png
   title: Reuniting the Band
   content: My secret is out. The band is broken. I love them. I broke them. Can I be enough to reunite them?
   page: band-reunite
-- image: military-4-defend-her.png
+- cover: military-4-defend-her.png
   title: Defend Her
   content: Can Ed defend Anastacia from her ex-husband or will her past destroy her future?
   page: defend-her
-- image: the-unfaithful-wife.png
+- cover: the-unfaithful-wife.png
   title: The Unfaithful Wife
   content: He hurt her but never expected Nina to cheat. When the truth is discovered, who will YOU choose as Nina's path to love?
   page: the-unfaithful-wife
-- image: shattered-hearts.png
+- cover: shattered-hearts.png
   title: Shattered Hearts
   content: Could your marriage survive the loss of a child? An emotional romance of love through grief.
   page: shattered-hearts

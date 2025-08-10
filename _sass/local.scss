@@ -166,6 +166,10 @@ a:hover {
   object-fit: cover;
 }
 
+.book-card .content {
+  padding: 1rem;
+}
+
 .book-content {
   flex: 1;
   display: flex;
@@ -194,7 +198,7 @@ a:hover {
   gap: 0.4rem;
 }
 
-.trope-tags span {
+.trope-tags li {
   background: #f2f2f2;
   color: #333;
   font-size: 0.75rem;

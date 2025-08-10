@@ -2,7 +2,7 @@
 layout: default
 title: Select a series
 ---
-[![Rugby League Sports Romance banner]({{site.baseurl}}/images/carousel/web-banner-southern-mav.png)]({{site.baseurl}}/series/southern-mav)
+[![Rugby League Sports Romance banner]({{site.baseurl}}/images/carousel/web-banner-southern-mav.png)]({{site.baseurl}}/series/southern-mavericks)
 [![Say I Do banner]({{site.baseurl}}/images/carousel/web-banner-say-i-do.png)]({{site.baseurl}}/series/say-i-do)
 [![Loving the band banner]({{site.baseurl}}/images/carousel/web-banner-loving-the-band.png)]({{site.baseurl}}/series/loving-the-band)
 [![Rockstar Dreams banner]({{site.baseurl}}/images/carousel/web-banner-rockstar-dreams.png)]({{site.baseurl}}/series/rockstar-dreams)

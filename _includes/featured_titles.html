@@ -1,17 +1,25 @@
 <!-- _includes/featured-titles.html -->
 <div class="featured-titles">
-  {% assign shuffled_books = site.data.books | sample: 3 %}
-  {% for book in shuffled_books %}
+  <!--{% assign shuffled_books = site.data.books | sample: 3 %}-->
+  {% for book in site.data.featured[page.featuredDataFile] %}
     <div class="book-card">
-      <img src="{{ book.cover }}" alt="{{ book.title }} cover">
-      <h3>{{ book.title }}</h3>
-      <p>{{ book.description }}</p>
-      <ul class="tags">
-        {% for tag in book.tags %}
-          <li>{{ tag }}</li>
-        {% endfor %}
-      </ul>
-      <a class="buy-button" href="{{ book.buy_link }}">Buy Now</a>
+      <a href="/book-summary/{{ book.page }}">
+        <img src="/images/covers/{{ book.cover }}" alt="{{ book.title }} cover">
+      </a>
+      <div class="content">
+        <h3>{{ book.title }}er</h3>
+        <p>{{ book.content }}</p>
+        {% if book.tags != nil && book.tags.count > 0 %}
+        <ul class="trope-tags">
+          {% for tag in book.tags %}
+            <li><span>{{ tag }}</span></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        {% if book.buy_url != nil %}
+        <a class="buy-button" href="{{ book.buy_url }}">Buy Now</a>
+        {% endif %}
+      </div>
     </div>
   {% endfor %}
 </div>
