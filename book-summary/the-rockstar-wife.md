@@ -1,37 +1,39 @@
 ---
 layout: book-summary
 title: The Rockstar's Wife
+slug: the-rockstar-wife
+series: Choose Your Own Rockstar Romance
+series_order: 2
+length: Novel
+rating: Steam Level 3.5
 image: the-rockstar-wife.png
-altText: The Rockstar's Wife
-AMSUSA: https://www.amazon.com/gp/product/B08FFVWT7T/
-AMSAU: https://www.amazon.com.au/gp/product/B08FFVWT7T/
-AMSUK: https://www.amazon.co.uk/gp/product/B08FFVWT7T/
-AMSCA: https://www.amazon.ca/gp/product/B08FFVWT7T/
+altText: choose your own rockstar romance The Rockstar's Wife by Kenna Shaw Reed choose second chance with first love or happily ever after with her rockstar husband
+buy_now: https://mybook.to/TheRockstarsWife
+tags:
+    - "Rockstar Romance"
+    - "Choose Your Own Romance"
+    - "Love Triangle"
+    - "Second Chance"
+    - "First Love"
+description: "The Rockstar’s Wife is a steamy rockstar romance novel by Kenna Shaw Reed with a twist—you choose Shae’s path to love. Torn between her rockstar husband and her first love, Shae must decide whether to fight for her marriage or rekindle a second chance romance. An emotional, interactive love triangle story where you control the ending."
+meta_description: "The Rockstar’s Wife by Kenna Shaw Reed is a steamy rockstar romance novel with a love triangle and second chance twist. Choose Shae’s path to love in this interactive romance."
 ---
 
-## The lead singer from aging rockers, Stormy Waters or the lead from the world’s hottest new band, God of War? Two loves, one future. Who will Shae choose?
+## Rockstar Romance >> Choose Your Own Romance >> Love Triangle
 
-_Let me tell you why I loved THE ROCKSTAR’S WIFE. It’s good! The storyline rocks! It is enticing and different in a way that I did not anticipate. I loved the way the author draws the reader into the story by the POV dynamic. Then continues that through the book. I liked the way she gives the reader three options as to the ending. The storyline alone is worth 6 stars._
-_Positively awesome. Uncanny. Unlike anything you’ve ever read.￼ it will give you chills all over. Excellent, excellent, excellent._
+_The lead singer from aging rockers, Stormy Waters or the lead from the world’s hottest new band, God of War? Two loves, one future. Who will Shae choose?_
 
 **Shae Fedolta**
 My rockstar husband doesn’t know the lead singer of his new support band used to be the lead musician to my heart. Can our marriage survive one tour or will Deacon remind me of why I should never have left?
 
-I’ll make you promises every night 
-Only to break them every morn
-You’ll be my love, my life, my muse
-I’m the reason your body was born
-No walls will hide your passion cries
-As you think one night means more
-Surrender your mind, your body, your soul
-One night is better than none at all
-
 Years ago, Deacon was my first love but when he chose pills and the bottle, I chose to leave. Now he’s the man I fell in love with and desperate to give us the future we once deserved.
 
 But, I love my husband.
-Even though Cruz no longer sees me as the band’s manager, in his faithful eyes I’ll always be his muse.
+Cruz no longer sees me as the band’s manager. He wants me to be the stay at home wife, the mother of his future children, his muse.
 
-Unless I lose them both to the truth, who will be my rockstar?
+_I love them both. But when all truths are exposed, will I have the chance to choose?_
 
 
-Choose once Then choose again. These rockstars send Shae’s head and heart spinning but you control her destiny. Follow the links in this new style of romance until with your help, Shae finds love. After all, when one happily ever after is never enough, Choose Your Own Rockstar romance!
+Choose once, then choose again. You control Shae's path to love. Follow the links in this new style romance. **Get [The Rockstar's Wife](https://mybook.to/TheRockstarsWife "The Rockstar's Wife") today.**
+
+##### The book was full of emotions, the writing style was straightforward, it remained true to the genre. The different ending was fun and interesting to read. Choose your own adventure/ending who does that? A brilliant author who thinks outside the box. A definite read..... get a copy now. Amazon Reviewer Emmie

@@ -1,33 +1,43 @@
 ---
 layout: book-summary
-title: Reckless Gamble - City Sinners Book 4 - Scott
+title: "Reckless Gamble | Secret Identity Enemies to Lovers Romance"
+slug: reckless-gamble
+series: City Sinners
+series_order: 3
+length: Novel
+rating: Steam Level 3
 image: sinner-4-reckless-gamble.png
-altText: reckless gamble - city sinners book 4 - Scott
-AMSUSA: https://www.amazon.com/gp/product/B08HXGYPV6/
-AMSAU: https://www.amazon.com.au/gp/product/B08HXGYPV6/
-AMSUK: https://www.amazon.co.uk/gp/product/B08HXGYPV6/
-AMSCA: https://www.amazon.ca/gp/product/B08HXGYPV6/
+altText: "Reckless Gamble book cover - a secret identity, enemies to lovers billionaire romance by Kenna Shaw Reed"
+description: "Reckless Gamble is a steamy billionaire romance by Kenna Shaw Reed featuring secret identities, enemies to lovers tension, and high-stakes poker. GG is on the run from a dangerous past. Scott is the billionaire who sees through her mask—and might be her only chance at survival. Mafia threats, workplace sparks, and a guaranteed HEA."
+meta_description: "Reckless Gamble by Kenna Shaw Reed is a steamy enemies to lovers billionaire romance with secret identities, mafia danger, and high-stakes poker. GG’s life depends on the cards—and Scott."
+tags:
+    - "Secret Identity"
+    - "Enemies to Lovers"
+    - "Billionaire Romance"
+    - "Workplace Romance"
+    - "Mafia"
+    - "Free with Kindle Unlimited"
+buy_now: "https://mybook.to/RecklessGamble"
 ---
 ## When the lights go down, deals are done and only the winner survives
 
-**GG**
-If anyone recognizes me, I’m dead.
-If I lose my borrowed stake on the first night, I’m dead.
-The rest of my life starts today, but only if I’m smarter than I was before. Never trust a man. Never fall in love.
-Mask in place, I’m ready.
-One last reckless gamble but this time it not my heart on the line. It’s my life.
+**GG**  
+If anyone recognizes me, I’m dead.  
+If I lose my borrowed stake on the first night, I’m dead.  
+This is my last shot at freedom—and I won’t waste it on trust or love.  
+One final reckless gamble. This time, it’s not my heart on the line. It’s my life.
 
-**Scott**
-Dressed to kill or be killed, GG sashayed into my game, joined my poker table and claimed my stack. I know this woman is trouble. She shouldn’t trust me with her secret. She shouldn’t trust her life to the way I play the cards.
-She shouldn’t, but she does. For her sake, I cannot lose.
+**Scott**  
+She walked into my poker game and stole my stack—and my attention.  
+GG is trouble wrapped in secrets, and I should walk away.  
+But she’s trusting me with her life.  
+And for her sake, I can’t afford to lose.  
 
+_In a world of dirty money and dangerous men, GG plays to survive._  
+_Scott plays to win._
+Together, they’ll risk everything in a high-stakes game of deception, desire, and redemption.
+Reckless Gamble is a standalone billionaire romance with secret identities, mafia danger, enemies-to-lovers heat, and a guaranteed HEA.
 
-In the world of dubious deals and dirty money comes a sexy heroine determined to beat men at their own game, and a billionaire hero willing to catch her if she falls - whether she wants him to, or not.
-With deception and desire, this contemporary romance will take you to new heights of suspense and steam.
-
-**Reckless Gamble is a stand alone billionaire romance where lives are decided on the play of a card. No cheating and a guaranteed HEA.**
-
-Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
-
-You'll get more of Scott in the other City Sinners where his nightclubs are an exiting backdrop to romance. 
-Or  go back to when Scott and Darius came to blows over [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") 
+**Get [Reckless Gamble](https://mybook.to/RecklessGamble/"Reckless Gamble") free with your Kindle Unlimited today.**    
+**Free series starter: [Billionaire Sins](https://bookhip.com/TNRAJQN/ "Billionaire Sins")**  
+**Back to series page --> [City Sinners](/series/city-sinners)**

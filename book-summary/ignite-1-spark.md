@@ -1,36 +1,44 @@
 ---
 layout: book-summary
-title: SPARK - Bailey and Shar - a small town first responder romance
+title: "Spark | Small Town, Slow Burn, Friends to Lovers Firefighter Romance"
+slug: spark
+series: IGNITE
+series_order: 1
+length: Novel
+rating: Steam Level 2.5
 image: ignite-1-spark.png
-altText: spark - a small town first responder romance
-AMSUSA: https://www.amazon.com/gp/product/B0C54VCTRR/
-AMSAU: https://www.amazon.com.au/gp/product/B0C54VCTRR/
-AMSUK: https://www.amazon.co.uk/gp/product/B0C54VCTRR/
-AMSCA: https://www.amazon.ca/gp/product/B0C54VCTRR/
+altText: spark book cover for a small town friends to lovers first responder romance
+tags:
+  - "Small Town Romance"
+  - "Slow Burn Romance"
+  - "Friends to Lovers"
+  - "Firefighter Romance"
+  - "Protective Firefighter"
+  - "Australian Romance"
+  - "Survival Romance"
+buy_now: "https://mybook.to/IGNITE-SPARK"
+description: "A widowed single mother. Her late husband’s best friend. One spark could change everything. SPARK is a slow-burn, friends-to-lovers romance set in the fire-prone town of Meringa. Shar is raising three daughters alone. Bailey has loved her quietly for years. But when the bushfires rage, love might be the only thing worth risking. First in the IGNITE series. Free with Kindle Unlimited."
+meta_description: "Widowed mother. Loyal best friend. One spark could change everything. A slow-burn firefighter romance set in small-town Australia."
 ---
 
-## Fall in love with the men and town of Meringa - where it only takes a SPARK to IGNITE romance
+## Some fires burn slow. Others change everything.
 
-_friends to lovers ~ widowed single mother ~ slow burn romance ~ australian bushfire ~ small town ~ firefighting hero ~ small town girl ~ risk lives for love_
+Sharalyn Curren is barely holding it together. Three years after losing her husband, she’s still running the family business, raising three daughters, and clinging to the memory of the man she loved. 
 
-In the small Australian town of Meringa, the only thing hotter than the bushfires, are the sportsmen and firefighters.
+**_Romance isn’t just off the table—it feels impossible.**_
 
-Bailey Rexworth might have loved Sharalyn Curren since primary school, but he's never crossed the friend-zone. He watched her marry his best friend and helped carry the coffin at Rob's funeral.
+Bailey Rexworth has loved Shar since they were kids. He watched her marry his best friend. He carried the coffin. And for three years, he’s stayed in her orbit—loyal, patient, quietly burning.
 
-After three years of grief, Shar Curren is struggling to survive. Each day is a battle to hold onto her husband's memory, keep their business afloat, and raise their three young daughters alone.
+Now the bushfires are closing in on Meringa, and Bailey’s ready to risk everything. Not just his life as a firefighter, but his heart.
 
-Shar wants to see Bailey as more than a friend, but it's not just their hearts that matter.
+Shar wants to believe in second chances. But her eldest daughter isn’t ready to let go of the past. And Shar isn’t sure she is either.
 
-Will her precocious, eldest daughter ever accept a new man in Shar's life? Can friends become lovers? Or will Bailey and Shar be destined to stop at a SPARK?
+Can friends become lovers without losing everything they’ve already built? Or will Bailey and Shar be destined to stop at a spark?
 
-SPARK is a small-town, slow-burn romance and a *short-read* introduction to the IGNITE series. These men put their bodies on the line on the sports field, and their lives on the line fighting fires. Fall in love with the town and men of Meringa today.
+**SPARK** is a slow-burn, friends-to-lovers romance set in a fire-prone Australian town. 
+Book 1 in the IGNITE series.  
+**Free with Kindle Unlimited.**
 
-[SPARK](https://mybook.to/IGNITE-SPARK/ "SPARK") - slow burn - Bailey and Shar
-[IGNITE](http://mybook.to/IGNITE/ "IGNITE") - enemies to lovers - Ethan and Rylee (full-length novel)
-[HEAT](http://mybook.to/IgniteHEAT/ "HEAT") - friends to lovers - Reece and Zoe (full-length novel)
-
-**Love the beachside hamlet of Meringa?**
-
-I spent many years on the south coast of Australia and created the fictional town of Meringa based on the towns and people I loved. Since many of these towns were destroyed in the 2020 firestorm, it seemed appropriate to base the IGNITE series in Meringa and I hope you can feel my emotion on the page.
-
-Meringa was also the perfect setting for Erebus' new start in [Broken Trust](https://www.amazon.com/gp/product/B07FCXFKGH/ "Broken Trust"), and the Loving the Band rockstar reverse harem series starting with [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band"). 
+**Get [SPARK](https://mybook.to/IGNITE-SPARK "SPARK")**  
+**Next in series [IGNITE](https://mybook.to/IGNITE "IGNITE")**  
+**Back to **[Series page](/series/ignite)**

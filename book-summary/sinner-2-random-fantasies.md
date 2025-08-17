@@ -1,12 +1,23 @@
 ---
 layout: book-summary
-title: Random Fantasies - City Sinners Book 2 - Darius
+title: "Random Fantasies | Secret Baby Billionaire Romance"
+slug: random-fantasies
 image: sinner-2-random-fantasies.png
-altText: random fantasies
-AMSUSA: https://www.amazon.com/gp/product/B07W1GMDJD/
-AMSAU: https://www.amazon.com.au/gp/product/B07W1GMDJD/
-AMSUK: https://www.amazon.co.uk/gp/product/B07W1GMDJD/
-AMSCA: https://www.amazon.ca/gp/product/B07W1GMDJD/
+altText: "Random Fantasies - a secret baby friends to lovers billionaire romance broken trust by Kenna Shaw Reed"
+series: City Sinners
+series_order: coming soon
+length: Novel
+rating: Steam Level 3
+tags:
+    - "Secret Baby"
+    - "Friends to Lovers"
+    - "Billionaire Romance"
+    - "Workplace Romance"
+    - "Coming Soon"
+buy_url: 
+description: "Random Fantasies is a steamy secret baby billionaire romance by Kenna Shaw Reed. When club hostess Tara hides the truth about her baby’s father, billionaire boss Darius steps in with love, loyalty, and a fierce desire to protect. A friends to lovers story of broken trust and second chances."
+meta_description: "Random Fantasies by Kenna Shaw Reed is a steamy secret baby billionaire romance. Darius loves Tara—and the baby that isn’t his. Can love survive the truth?"
+
 ---
 ## Temporarily unavailable while I rewrite from third person to first person
 Continue the City Sinners series with [Hard Bargain](https://mybook.to/HardBargain/ "Hard Bargain") while you wait.
@@ -26,7 +37,3 @@ But if Darius ever found out her secret baby daddy, Tara knows it will take hell
 If any couple deserve a second chance at forever, it's billionaire boss Darius and his club hostess Tara.
 
 **Random Fantasies is a stand alone secret baby billionaire romance with no cheating and a guaranteed HEA.**
-
-Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
-
-You'll get more of Darius in the other City Sinners where his home becomes an sanctuary for women on the run from trouble. Or go back to when Darius and Scott came to blows over [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") 

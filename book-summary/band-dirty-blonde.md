@@ -1,19 +1,41 @@
 ---
 layout: book-summary
-title: Dirty Blonde - free prequel to Loving the Band
+title: "Dirty Blonde | Free Prequel to Loving the Band Why Choose Rockstar Romance Series"
+slug: dirty-blonde
+series: Loving the Band
+series_order: 0
+length: Novella
+rating: Steam Level 3
 image: band-0-dirty-blonde.png
-altText: dirty blonde - free prequel to loving the band
-BF: https://dl.bookfunnel.com/87mn2uvtd1
+altText: "dirty blonde book cover for the free prequel to loving the band series by Kenna Shaw Reed"
+tags:
+  - "Why Choose"
+  - "Rockstar Romance"
+  - "One Bed / Forced Proximity"
+  - "Instant Attraction"
+  - "InstaLove"
+  - "Free Series Starter"
+buy_now: "https://dl.bookfunnel.com/g7gkv4t1th"
+description: "One music festival. One bed. One dirty blonde who stole the lead singer’s heart. Dirty Blonde is the free prequel to Loving the Band, a steamy why choose rockstar romance series. When Xavier sees her in the crowd, he knows she’s the one. But she’s hiding a secret—and she’s about to change everything. Perfect for fans of reverse harem, forced proximity, and instant attraction."
+meta_description: "A steamy why choose rockstar romance prequel. One bed, one secret, and one dirty blonde who stole the lead singer’s heart. Free with BookFunnel."
 ---
 
-_free series starter ~ rockstar romance ~ secret identity ~ running from her past ~ instalove ~ he saw her first_
+## One music festival. One bed. One dirty blonde who stole the lead singer’s heart.
 
-**_Tell me what you want_, Xavier asked, his eyes and body mine to command.**
+_Tell me what you want, Xavier was the first man to ever ask._
 
-Before I seduced the band—<br>Before I played with and enjoyed the band—<br>Before I broke the band and was forced to reunite them-<br>I was just a woman running from my past.
+Before she seduced the band.  
+Before she played with and enjoyed the band.  
+Before she broke the band—and had to put them back together.    
+She was just a woman running from her past.
 
-I was one anonymous woman hiding within the crowd at a music festival.<br>I didn’t expect three days to change my life.<br>This is when I became Xavier’s dirty blonde.
+At a remote music festival, she hides in the crowd—anonymous, untouchable, and done with love. Until Xavier Gallis, lead singer of The Flying Monkeys, sees her. Wants her. Claims her.
 
-Download your free copy of [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1 "Dirty Blonde") and meet your next favorite book boyfriend, Xavier Gallis - lead singer of The Flying Monkeys. Then enjoy this steamy rockstar reverse harem series with: [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band"), [Enjoying the Band](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band") and [Reuniting the Band](https://www.amazon.com/gp/product/B08BK5PWL3/ "Reuniting the Band").
+Three days. One bed. Instant attraction.  
+And a secret that could destroy everything.
 
- 
+**Dirty Blonde** is the free prequel to *Loving the Band*, a steamy **why choose rockstar romance** series where one woman doesn’t have to choose between the men who want her.
+
+**Get [Dirty Blonde](https://dl.bookfunnel.com/g7gkv4t1th "Dirty Blonde") free with BookFunnel.**  
+**Next in series [Seducing the Band](https://mybook.to/SeducingTheBand "Seducing the Band")**  
+**Back to [Loving the Band](/series/loving-the-band)**

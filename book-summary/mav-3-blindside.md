@@ -1,12 +1,53 @@
 ---
 layout: book-summary
-title: Playing the Blindside
+title: Playing the Blindside | Second Chance Secret Baby Sports Romance
+slug: playing-the-blindside
+series: Southern Mavericks
+series_order: 3
+length: Novel
+rating: Steam Level 2.5
 image: mav-3-blindside.png
 altText: playing the blindside book cover
+tags:
+ - "Sports Romance"
+ - "Rugby League"
+ - "Second Chance Romance"
+ - "Secret Baby"
+ - "Love Triangle"
+ - "Found Family"
+buy_now: "https://mybook.to/PlayingtheBlindside" 
+description: "Playing the Blindside is a steamy rugby league sports romance featuring second chances, a secret baby, and a love story undone by miscommunication. When Randii’s secret is exposed, Dawson must choose between the career he’s rebuilt and the woman who broke his heart. Passion, scandal, and redemption collide in this emotional sports romance."
+meta_description: "A steamy rugby league romance with a secret baby, second chances, and scandal. Dawson’s career is back on track—until Randii’s secret changes everything."
 ---
 
-## Did you meet Dawson and Randii in Insta Bride?
+## One secret baby. One second chance. One woman he swore he’d never forgive.
 
-_second chance ~ rugby league sports romance ~ secret baby ~ sports romance_
+**Randii** walked away from Dawson Briggs and took a secret with her.
 
-Dawson Briggs deserves a second chance at his rugby league career, and in love. After meeting Randii on Australian Love Story - reality TV show - no one thought they would last. When a spot opened up in the Southern Mavericks, I decided to find out what's been happening with Dawson and Randii. You'll never guess. This book wants to write itself but I'll wait until there's a first draft before putting it up for preorder. Kenna
+The press branded her a groupie.  
+The headlines never told the truth.  
+She loved Dawson. Still does.  
+But he deserved a career, not complications.  
+And she deserved a man who could protect her as fiercely as he loves.
+
+Now her secret is out.  
+And Dawson knows.  
+Will they have a second chance, or will he take away the only person she loves more than him?
+
+**Dawson’s** back in the game, chasing a second chance at rugby league glory.
+He never stopped loving Randii.  
+But love isn’t enough — not when trust is shattered.  
+She says the child is his.  
+He wants to believe her.  
+
+_But forgiveness? That’s harder than any tackle on the field._
+
+He wants his child.  
+He’s not sure he wants the mother.  
+At least, that’s what he tells himself, until the truth blindsides him and he realizes he'll do anything for love.
+
+_Playing the Blindside is a steamy rugby league sports romance featuring second chances, a secret baby, and a love story undone by miscommunication and media scandal._
+
+**Get [Playing the Blindside](https://mybook.to/PlayingtheBlindside "Playing the Blindside")**  
+**Next in series [Playing Rucking Hard](https://mybook.to/PlayingRuckingHard "Playing Rucking Hard")**  
+**Back to [Southern Mavericks](/series/southern-mavericks "Southern Mavericks") series page**

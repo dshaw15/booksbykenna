@@ -1,49 +1,49 @@
 ---
 layout: book-summary
 title: The Unfaithful Wife
+slug: the-unfaithful-wife
+series: Choose Your Own Romance
+series_order: 2
+length: Novel
+rating: Steam Level 3
 image: the-unfaithful-wife.png
-altText: the unfaithful wife
-AMSUSA: https://www.amazon.com/gp/product/B07D91M4Q6/
-AMSAU: https://www.amazon.com.au/gp/product/B07D91M4Q6/
-AMSUK: https://www.amazon.co.uk/gp/product/B07D91M4Q6/
-AMSCA: https://www.amazon.ca/gp/product/B07D91M4Q6/
+altText: choose your own romance interactive romance book cover The Unfaithful Wife by Kenna Shaw Reed
+tags:
+  - "Choose Your Own Romance"
+  - "Second Chance"
+  - "Friends to Lovers"
+  - "Love Triangle"
+  - "Cheating Spouse"
+  - "Interactive Romance"
+  - "Forbidden Romance"
+  - "Older Woman Younger Man"
+  - "Affair Drama"
+  - "Interactive Romance"
+  - "Free with Kindle Unlimited"
+buy_now: "https://mybook.to/UnfaithfulWife"
+description: "Nina’s perfect life shatters when she catches her husband cheating—with her protégé. But she has secrets of her own. Now, three men want her heart: the husband who regrets everything, the best friend who’s also her lover, and a forbidden younger man. In this steamy, emotionally charged interactive romance, you choose Nina’s happily ever after. Perfect for fans of second chance love, betrayal, and forbidden romance."
+meta_description: "A steamy interactive romance of betrayal, forbidden love, and second chances. You choose Nina’s happily ever after. Free with Kindle Unlimited."
+
 ---
 
-## He promised to always love her. He never promised not to break her heart
+## She was the perfect wife—until she wasn’t.
 
-**One woman**
+**Nina Elphaine** had the life most women envy: a glittering career, beautiful children, and a husband who promised forever. But forever shattered the night she found him with her protégé. Now, the woman who always played by the rules is rewriting them.
 
-**Nina** has it all, model looks, successful career, loving children and a cheating husband. Luckily her own lover is always willing to kiss her tears away.
+Three men. One heart. No easy answers.  
+**Derek**, her husband, swears it was a mistake. He wants forgiveness. He wants her back. But he’s about to learn Nina has secrets of her own.  
+**Roland**, her best friend—and her lover—has always been the one who sees her clearly. Their affair was never meant to last. But what if it could?  
+**Lucas**, the younger stranger who calls her “Tina,” only had one night. He wants more. And Nina can’t stop thinking _what if_.
 
-**Three men**
+She’s been the faithful wife. The betrayed woman. The secret lover. Now, she gets to choose who she’ll become.
 
-**Derek** knew he didn't deserve her, but thought Nina would always be the forgiving and faithful wife. Until he first finds the mystery phone, then the key and finally discovers his loving wife has been hiding her own secrets.
+**Choose once. Then choose again.**  
+In this steamy, emotionally charged interactive romance, you decide Nina’s fate. Will she return to the man who broke her? Risk everything for forbidden love? Or finally choose herself?
 
-**Roland** may be Derek’s best friend but it is his friendship with Nina that they can’t hide forever. Their affair will only threaten their marriages if anyone finds out.
-
-**Lucas** never expected the long legs to belong to such a sexy, older woman. One night with the mysterious “Tina” is never going to be enough.
-
-Husbands lie, lovers fall in love. If the choice is up to Nina, who will she choose?
-
-**Choose once** Then choose again. These three men send Nina’s head and heart spinning. You control Nina’s romantic destiny in this choose your own romance. After all, when one happily ever after is never enough, Choose Your Own Romance!
-
-**The Unfaithful Wife** is more than a **love triangle** or even a second chance romance. The Unfaithful Wife is a steamy contemporary romance of love, betrayal and forgiveness where you get to choose Nina’s happily ever after.
-Make your choice, today.
+_The Unfaithful Wife is a provocative journey through betrayal, desire, and second chances._  
+_Perfect for fans of The Perfect Wife, The Politician’s Wife, and emotionally rich stories where love isn’t simple—and happily ever after is never guaranteed._
 
 
-
-#### From the author
-
-> Derek is a sexy creature and we’ve all met our own version of Derek. Powerful, charismatic and able to charm the panties of any woman he chooses. So why would his wife stay? Nina is strong, sexy and successful in her own right. Her only ‘weakness’ is the love she can’t deny for her husband.
->
-> For Nina, the only way she can face and forgive each of her husband’s affairs, is to have her own safety net. One man who will always love her, and will never let her down. Having her own lover doesn’t make the pain go away, but it helps her to understand. 
-> 
-> In **The Unfaithful Wife**, I’ve explored the emotional cost of infidelity – both Derek and Nina. Rarely can complicated relationships last until old age. And, as my loyal readers would expect, there is a twist! Choose the lighthouse!
-> 
-> Cheating warning - Even though Derek doesn't cheat in The Unfaithful Wife, Nina finds solace in lovers' arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.
-> 
-> Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
-
-Other books with Nina: [The Intern](https://www.amazon.com/dp/B078ZW34LX/ "The Intern") [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts") 
-Other books with Derek: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
-Other books with Roland: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
+**Get [The Unfaithful Wife](https://mybook.to/UnfaithfulWife "The Unfaithful Wife") free with Kindle Unlimited**  
+**Next in series --> [The Unforgiving Wife](https://mybook.to/UnforgivingWife "The Unfaithful Wife")**  
+**Back to series page --> [Complicated Marriage](/series/choose-your-own-wife)**

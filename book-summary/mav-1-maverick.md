@@ -1,32 +1,48 @@
 ---
 layout: book-summary
-title: Playing the Maverick
+title: Playing the Maverick | Best Friend's Sister Rugby League Sports Romance
+slug: playing-the-maverick
+series: Southern Mavericks
+series_order: 1
+length: Novel
+rating: Steam Level 2.5
 image: mav-1-maverick.png
 altText: playing the maverick book cover
-AMSUSA: https://www.amazon.com/dp/B0CW185J8H/
-AMSAU: https://www.amazon.com.au/dp/B0CW185J8H/
-AMSUK: https://www.amazon.co.uk/dp/B0CW185J8H/
-AMSCA: https://www.amazon.ca/dp/B0CW185J8H/
+tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Forbidden Romance"
+    - "Best Friend's Sister"
+    - "Secret Identity"
+    - "Secret Dating"
+    - "Found Family"
+buy_now: "https://mybook.to/PlayingTheMaverick" 
+description: "His rugby career is over. His best friend’s sister is off-limits. Playing the Maverick is a steamy sports romance featuring forbidden love, secret dating, and a hero rebuilding his life after injury. Maverick never expected to fall for Sara, but now he’s risking everything to keep her. Perfect for fans of alpha athletes, emotional heat, and best friend’s sister romance."
+meta_description: "His career is over. She’s off-limits. Playing the Maverick is a steamy rugby league sports romance with forbidden love and secret dating his best friend's sister."
 ---
 
-## Will a second chance at the career I love cost me the woman I've always loved? 
+## One injury. One secret romance. One woman he was never supposed to love.
 
-_rugby league romance ~ best friend's sister ~ forbidden love ~ age gap ~ secret job ~ wallflower ~ sports romance ~ kindleunlimited_
+Maverick’s rugby league career is over—and the media wants blood.  
+After a devastating injury, he’s hiding out in his best friend’s home, dodging headlines and searching for a future that doesn’t feel like failure.
 
-**Maverick**
+He didn’t plan to fall for Sara.  
+She’s his best friend’s little sister.  
+She’s off-limits.  
+And she’s everything he never thought he deserved.
 
-I never expected to fall in love with Sara, my best friend’s little sister. But when a career-ending injury sidelines my rugby dreams, I need a place to hide from the media, and Sara becomes more than just a safe haven.
+Sara’s spent years being overlooked—just the wallflower, just Kenzie’s kid sister.  
+But now she’s back from college, and there’s one man she never forgot.
 
-As friends turned lovers, we juggle hidden kisses and stolen moments, all while keeping our secret from her sister. If anyone discovers our romance, I'll risk losing my new career before it starts and my best friend’s trust. I know Sara's worth it, but can I be the man she deserves, or will she eventually see me as a washed-up footballer?
+They shouldn’t.  
+Kenzie will never forgive them.  
+But one kiss with Maverick changes everything.
 
-**Sara**
+Now they’re sneaking around, stealing moments, and risking it all.  
+If their secret gets out, Maverick could lose his second chance at rugby—and the only woman who ever made him believe in love.
 
-For years, I've been 'the little sister,' 'the plain wallflower,' and 'just Kenzie's sibling.'
-One kiss changed everything. Years of dreaming about my sister's best friend turned into hopes for a happily ever after. But when Maverick finds a new, secret job that consumes all his waking hours, I start to wonder if I was just a distraction from his injury. Maverick is worth facing my sister’s wrath, but can a girl like me ever be worth his love?
+_**Playing the Maverick** is a steamy rugby league sports romance featuring forbidden love, secret dating, and a best friend’s sister who refuses to stay in the background._
 
-Playing the Maverick is a heartwarming secret romance that faces the challenge of falling for your best friend’s sister, set against the backdrop of a rugby league sports romance.
-
-Stand alone, series starter, Coaching the Mavericks, is only available in the Well Played anthology - [Well Played](https://www.amazon.com/dp/B0CN82WW5B/ "Well Played")
-Book 1, **[Playing the Maverick](https://www.amazon.com/dp/B0CW185J8H/ "Playing the Maverick")** and Book 2, **[Playing the Advantage](https://www.amazon.com/dp/B0CWTFJCXP/ "Playing the Advantage")** are available free with your KindleUnlimited subscription.
-
-**Get [Playing the Maverick](https://www.amazon.com/dp/B0CW185J8H/ "Playing the Maverick") today.**
+**Get [Playing the Maverick](https://mybook.to/PlayingTheMaverick) today**
+**Next in series [Playing the Advantage](https://mybook.to/PlayingtheAdvantage "Playing the Advantage")**  
+**Back to [Southern Mavericks](/series/southern-mavericks "Southern Mavericks") series page**

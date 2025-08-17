@@ -1,50 +1,41 @@
 ---
 layout: book-summary
-title: The Perfect Wife
+title: "The Perfect Wife | Choose Your Own Romance"
+slug: the-perfect-wife
+series: Choose Your Own Romance
+series_order: 4
+length: Novel
+rating: Steam Level 3
 image: the-perfect-wife.png
-altText: The perfect wife
-AMSUSA: https://www.amazon.com/gp/product/B07NBKTXY9/
-AMSAU: https://www.amazon.com.au/gp/product/B07NBKTXY9/
-AMSUK: https://www.amazon.co.uk/gp/product/B07NBKTXY9/
-AMSCA: https://www.amazon.ca/gp/product/B07NBKTXY9/
+altText: choose your own romance interactive romance book cover The Perfect Wife by Kenna Shaw Reed
+tags:
+  - "Choose Your Own Romance"
+  - "Second Chance"
+  - "Friends to Lovers"
+  - "Love Triangle"
+  - "Cheating Spouse"
+  - "Military Romance"
+  - "Interactive Romance"
+  - "Free with Kindle Unlimited"
+buy_now: "https://mybook.to/ThePerfectWifeCYOR"
+description: "A steamy interactive romance where you choose Brynne’s happily ever after. Second chances, military love, and emotional twists await."
+meta_description: "A steamy interactive romance where you choose Brynne’s happily ever after. Second chances, military love, and emotional twists await."
+
 ---
-## What if perfect love could happen more than once? Which one would you choose?
+## What if your heart had more than one true love—and you had to choose?
 
-**Brynne wanted to be the perfect corporate wife but she never expected the lonely nights.** When her husband’s “mistress” is his business, how can she compete? And how can she possibly say “no” when Lieutenant Colonel Ed Alexander wants coffee. He might have been her first love, but the hurt didn’t fade with the years.
+Brynne built her life around being the perfect corporate wife. But when her husband Owen’s devotion to business leaves her emotionally adrift, and her first love Ed Alexander reappears—now a decorated military officer—Brynne’s carefully curated world begins to crack.
 
-**Owen** knows that working long hours can be hard on a marriage but Brynne has always been the loving and understanding wife. With her ex is in town, Owen doesn’t want to see the signs. After all, Brynne left the guy years ago, came to the city and moved on.
+**Owen** believes their marriage is solid.  
+**Ed** wants a second chance.  
+**And Brynne?** She’s torn between the man she married, the man she left, and the woman she’s becoming.
 
-End of story. Surely?
+In this steamy, emotionally charged **interactive romance**, *you* decide Brynne’s fate. Will she fight for her marriage, rekindle a lost love, or choose herself?
 
-**Ed** expected Brynny to block his online request. Flicking through photos, his heart skipped more than one beat.
+**Choose once. Then choose again.**  
+Because when one happily ever after isn’t enough, you get to write the ending.
 
-Brynne Thurlow. Damn, she was beautiful.
-
-Once upon a time, he’d been a fool to lose her. Now, nothing was going to stop him from being a fool for her.
-
-**With her heart torn in different directions, Brynne can't choose.**
-
-Read this exciting new romance today where YOU decide on Brynne’s happily ever after.
-
-**Choose once** Then choose again. 
-These three men send Brynne's head and heart spinning. Who will she end up with? You control Brynne's romantic destiny in this choose your own romance. After all, when one happily ever after is never enough, Choose Your Own Romance!
-
-**The Perfect Wife** is more than a **love triangle**. The Perfect Wife is a steamy contemporary, second chance and military romance where you get to choose Brynne’s happily ever after. Make your choice, today.
-
-
-#### From the author
-
-> The Perfect Wife is the latest in my choose your own romance series that features a complicated marriage. That Brynne loves Owen isn't in question - it is whether she wants to live her life as a corporate widow. Especially when another option has marched back into her life. Weaved throughout this romance is the desperate longing Brynne has for a child and the secret she's kept from her husband.
-> 
-> I love writing confrontation scenes, and this one will always be a fav as will the husband's revenge - or did he go too far? Let me know what you think.
-> 
-> Cheating warning - As Brynne explores who she is and what she wants out of life, there are times when she turns to a lover's arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.
-> 
-> What I love about Brynne is how much she tries to put everyone else's needs ahead of her own desires. Each of the endings are perfect for her in different ways and I can't wait to hear which one you choose.
-> 
-> Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
-
-Other books with 
-- Brynne: [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife")
-- Ed Alexander: [Defend Her](https://www.amazon.com/dp/B07TSTD7N3/ "Defend Her") and [Save Her](https://www.amazon.com/dp/B07QXP78SZ/ "Save Her")
-- Juliette (Brynne's friend): [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife") (minor character); [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife") (Juliette is The Unforgiving Wife) 
+_Perfect for fans of second chance romance, military heroes, and love triangles with heart._  
+**Get [The Perfect Wife](https://mybook.to/ThePerfectWifeCYOR/"The Perfect Wife") free with Kindle Unlimited today.**  
+**Did you read the first in series: [The Politician's Wife](https://mybook.to/ThePoliticiansWife "The Politician's Wife")**  
+**Back to series page --> [Complicated Marriage](/series/choose-your-own-wife)**

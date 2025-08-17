@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News
+title: Latest News
 ---
 <ul class="blog-items">
 {% for post in site.categories.News %}

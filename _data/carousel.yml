@@ -1,7 +1,3 @@
-- title: Series Starters
-  image: web-banner-series-starters.png
-  altText: Start at the beginning with these series starter
-  page: series/series-starters
 - title: Southern Mavericks Rugby League Sports Romance
   image: web-banner-southern-mav.png
   altText: Southern Mavericks - rugby league sports romance series
@@ -18,6 +14,10 @@
   image: web-banner-ignite.png
   altText: IGNITE series
   page: series/ignite
+- title: Series Starters
+  image: web-banner-series-starters.png
+  altText: Start at the beginning with these series starter
+  page: series/series-starters
 - title: Aussie Military Romance
   image: web-banner-military-series.png
   altText: military series
@@ -34,10 +34,6 @@
   image: web-banner-cyow.png
   altText: choose your own romance complicated marriage series
   page: series/choose-your-own-wive
-- title: Choose your own romance - college love
-  image: web-banner-cyo.png
-  altText: choose your own romance college love series
-  page: series/choose-your-own-romance
 - title: Choose your own rockstar romance
   image: web-banner-cyorr.png
   altText: choose your own rockstar romance series

@@ -1,0 +1,309 @@
+/* ---------------------------------------
+   Font Imports
+--------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans:wght@400;600&display=swap');
+
+/* ---------------------------------------
+   Base Typography & Colours
+--------------------------------------- */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400;
+  color: #b84c65; /* romantic deep rose */
+  margin-bottom: 0.5em;
+}
+
+a {
+  color: #b84c65;
+  text-decoration: none;
+}
+a:hover {
+  color: #8a374c;
+  text-decoration: underline;
+}
+
+/* ---------------------------------------
+   Site Header
+--------------------------------------- */
+.site-header {
+  background: #fff6f8; /* pale blush */
+  border-bottom: 1px solid #f3d6dc;
+}
+
+.site-header .top-bar {
+  padding: 0.5rem 0;
+}
+
+.site-header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.site-header nav a {
+  font-weight: 600;
+}
+
+.site-header img.round {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
+
+/* ---------------------------------------
+   Banner Title
+--------------------------------------- */
+.banner h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+  text-align: center;
+  padding: 1rem;
+  color: #b84c65;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.15); /* subtle romantic shadow */
+}
+
+/* ---------------------------------------
+   Layout Wrappers (from your original)
+--------------------------------------- */
+.wide-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Page-specific wrappers */
+.my-books .wide-wrapper,
+.latest-news .wide-wrapper,
+.about .wide-wrapper {
+  max-width: 900px;
+}
+
+/* ---------------------------------------
+   Image Wrapping (from your original)
+--------------------------------------- */
+.image-left {
+  float: left;
+  margin: 0 1em 1em 0;
+  max-width: 45%;
+}
+
+.image-right {
+  float: right;
+  margin: 0 0 1em 1em;
+  max-width: 45%;
+}
+
+/* Ensure floats clear properly */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Generic image styling inside main content */
+.my-books img,
+.latest-news img,
+.about img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+}
+/* ---------------------------------------
+   Featured Titles book covers
+--------------------------------------- */
+.img-book-cover {
+  width: 100%;
+  padding-top: 150%; /* Adjust ratio if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1px solid #f3d6dc;
+  border-radius: 6px;
+}
+/* =========================
+   Local Custom Styles
+   ========================= */
+
+/* === Featured Titles Grid === */
+.featured-titles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.book-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.book-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.book-card .content {
+  padding: 1rem;
+}
+
+.book-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.book-title {
+  font-family: $base-font-family;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.book-description {
+  flex: 1;
+  font-size: 0.9rem;
+  color: #444;
+  margin-bottom: 0.75rem;
+}
+
+.trope-tags {
+  margin-top: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.trope-tags li {
+  background: #f2f2f2;
+  color: #333;
+  font-size: 0.75rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+/* ---------------------------------------
+   Footer
+--------------------------------------- */
+.site-footer {
+  background: #fff6f8;
+  border-top: 1px solid #f3d6dc;
+  padding: 1rem 0;
+  text-align: center;
+  font-size: 0.875rem;
+}
+.featured-titles {
+  ul {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .book {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  .img-book-cover {
+    width: 100%;
+    padding-top: 150%; // taller ratio for mobile
+    background-size: cover;
+    background-position: center;
+  }
+
+  .book-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 1rem;
+
+    p {
+      margin: 0 0 0.5rem;
+      font-size: 0.95rem;
+
+      &:first-child {
+        font-size: 1.1rem;
+        font-weight: bold;
+        margin-bottom: 0.25rem;
+      }
+
+      &:nth-child(2) {
+        color: #666;
+        font-size: 0.85rem;
+      }
+    }
+  }
+
+  .trope-tags {
+    margin-top: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+
+    span {
+      background: #f5f5f5;
+      padding: 0.25rem 0.5rem;
+      font-size: 0.75rem;
+      border-radius: 4px;
+      color: #555;
+      line-height: 1.2;
+    }
+  }
+
+  // Tablet - 2 per row
+  @media (min-width: 600px) {
+    ul {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .img-book-cover {
+      padding-top: 140%;
+    }
+  }
+
+  // Desktop - 3 per row
+  @media (min-width: 900px) {
+    ul {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .img-book-cover {
+      padding-top: 150%;
+    }
+  }
+}
