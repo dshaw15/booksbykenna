@@ -1,13 +1,12 @@
 ---
 layout: tropes-default
 title: "Friends to Lovers"
+tag: "Friends to Lovers"
 image: trope-banner-friends-2-lovers.png
 altText: "banner for friends to lovers romance books by Kenna Shaw Reed"
 description: "Friends to Lovers romance books explore emotional intimacy, slow-burn chemistry, and the moment friendship turns into forever. When hearts cross the line, can love last?"
 meta_description: "Discover Friends to Lovers romance books filled with trust, laughter, and unforgettable first kisses. Perfect for readers who believe the best relationships start as friends."
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
 
 <div style="text-align:center;"> <h1><strong>When love begins with a simple, I’ve got your back</strong></h1> </div>
 
@@ -41,13 +40,3 @@ This trope is perfect for readers who crave:
 - 💞 deep emotional connection before the first kiss  
 - 🫢 tension between risking friendship and falling in love  
 - 🔥 that moment when everything shifts, and nothing will be the same again
-
-Instructions for David - All books are in site.book-summary. If book.tag contains this trope name - eg "Second Chance" then I want a grid with just the book cover - let me know if I need to make smaller than the current 250 x 300 - alt text and click on the book cover to go to the book summary or click on the "buy now" 
-
-<div class="book-grid">
-  {% for book in site.book-summary.books %}
-    {% if book.tag contains "Second Chance" %}
-      {% include book-card.html book=book %}
-    {% endif %}
-  {% endfor %}
-</div>

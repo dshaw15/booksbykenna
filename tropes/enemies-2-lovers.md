@@ -1,13 +1,12 @@
 ---
 layout: tropes-default
 title: "Enemies to Lovers"
+tag: "Enemies to Lovers"
 image: trope-banner-enemies-2-lovers.png
 altText: "banner for enemies to lovers romance books by Kenna Shaw Reed"
 description: "Enemies to Lovers with instant attraction delivers fiery tension and undeniable chemistry. When conflict meets desire, sparks fly fast."
 meta_description: "Explore Enemies to Lovers romance with instant attraction—banter, rivalry, and irresistible passion from page one. Perfect for fans of fast-burning emotional tension."
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
 
 <div style="text-align:center;"> <h1><strong>When love there's a fine line between love and hate - and they've crossed it.</strong></h1> </div>
 
@@ -63,12 +62,3 @@ So while _Instalove_ delivers love quickly, and _Enemies to Lovers_ delivers lov
 
 ## Ready for the fire of your next enemies to lovers romance?
 
-Instructions for David - All books are in site.book-summary. If book.tag contains this trope name - eg "Enemies to Lovers" then I want a grid with just the book cover - let me know if I need to make smaller than the current 250 x 300 - alt text and click on the book cover to go to the book summary or click on the "buy now" 
-
-<div class="book-grid">
-  {% for book in site.book-summary.books %}
-    {% if book.tag contains "Enemies to Lovers" %}
-      {% include book-card.html book=book %}
-    {% endif %}
-  {% endfor %}
-</div>

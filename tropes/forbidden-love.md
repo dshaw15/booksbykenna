@@ -1,13 +1,12 @@
 ---
 layout: tropes-default
 title: "Forbidden Love"
+tag: "Forbidden Love"
 image: trope-banner-forbidden-love.png
 altText: "banner for forbidden love romance books by Kenna Shaw Reed"
 description: "Forbidden Love romance books explore passion, secrecy, and emotional risk. When love defies rules, expectations, or loyalties—can it survive?"
 meta_description: "Discover Forbidden Love romance books filled with tension, longing, and high-stakes emotion. Perfect for readers who crave love that breaks the rules."
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
 
 <div style="text-align:center;"> <h1><strong>When falling in love breaks all the rules</strong></h1> </div>
 
@@ -52,14 +51,3 @@ In real life, it's difficult. My cousin lost out when his best friend married hi
 But that’s what makes it powerful in a romance book. _Forbidden Love_ stories remind us that love isn’t always easy or accepted — but it’s always worth fighting for. And when the characters choose each other despite everything? That’s the kind of ending that stays with you and makes me believe in true love.
 
 ## 📚 Browse Forbidden Love Books
-
-
-Instructions for David - All books are in site.book-summary. If book.tag contains this trope name - eg "Second Chance" then I want a grid with just the book cover - let me know if I need to make smaller than the current 250 x 300 - alt text and click on the book cover to go to the book summary or click on the "buy now" 
-
-<div class="book-grid">
-  {% for book in site.book-summary.books %}
-    {% if book.tag contains "Second Chance" %}
-      {% include book-card.html book=book %}
-    {% endif %}
-  {% endfor %}
-</div>

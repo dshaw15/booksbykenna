@@ -10,14 +10,17 @@
     <main class="page-content no-padding-top" aria-label="Content">
       <div class="wide-wrapper">
         <h2 class="featured-title text-center"></h2>
-        {% include featured_titles.html %}
         <div class="content">
+          <img alt="{{page.altText}}" src="{{site.baseurl}}/images/tropes/{{page.image}}" />
             {{ content }}
+
+            {% include featured-tropes.html %}
+
         </div>
       </div>
     </main>
 
-    {% include footer.html %}
+    {% include footer.html trope=page.tag %}
 
   </body>
 

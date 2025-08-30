@@ -1,14 +1,12 @@
 ---
 layout: tropes-default
 title: "Insta Attraction and InstaLove"
+tag: "InstaLove"
 image: trope-banner-instalove.png
 altText: "banner for insta attraction and instalove romance books by Kenna Shaw Reed"
 description: InstaLove romance celebrates love at first sight—fast, passionate, and deeply emotional. When connection is instant, the heart knows.
 meta_description: Discover InstaLove romance books with instant connection and high-intensity emotion. Ideal for readers who want to fall in love fast and feel every heartbeat.
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
-
 
 <div style="text-align:center;"> <h1><strong>When connection is instant, the heart knows love.</strong></h1> </div>
 
@@ -59,13 +57,3 @@ Real people fall in love at first sight every day. InstaLove stories celebrate t
 Can they be _over the top_ or OTT? Absolutely. Especially in short novellas, but that's part of the appeal. 
 
 ## Ready for your next Insta Attraction or Instalove romance?
-
-Instructions for David - All books are in site.book-summary. If book.tag contains this trope name - eg "Insta Attraction" or "InstaLove" then I want a grid with just the book cover - let me know if I need to make smaller than the current 250 x 300 - alt text and click on the book cover to go to the book summary or click on the "buy now" 
-
-<div class="book-grid">
-  {% for book in site.book-summary.books %}
-    {% if book.tag contains "Insta Attraction" or "InstaLove" %}
-      {% include book-card.html book=book %}
-    {% endif %}
-  {% endfor %}
-</div>

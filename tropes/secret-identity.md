@@ -1,13 +1,12 @@
 ---
 layout: tropes-default
 title: "Secret Identity"
+tag: "Secret Identity"
 image: trope-banner-secret-identity.png
 altText: "banner for secret identity romance books by Kenna Shaw Reed"
 description: "Secret Identity romance books explore love built on mystery, hidden truths, and emotional risk. When the truth comes out, will love survive?"
 meta_description: "Discover Secret Identity romance books filled with suspense, emotional tension, and unforgettable reveals. Perfect for readers who crave love beyond the mask."
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
 
 <div style="text-align:center;"> <h1><strong>Because sometimes love hides in plain sight.</strong></h1> </div>
 

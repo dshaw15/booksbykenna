@@ -2,12 +2,11 @@
 layout: tropes-default
 title: "Choose Your Own Romance Books"
 image: trope-banner-choose-your-romance.png
+tag: "Choose Your Own Romance"
 altText: "banner for choose your path to love romance books by Kenna Shaw Reed"
 description: "Choose Your Own Romance books let readers shape the love story — decide who she loves, what risks she takes, and how her happily ever after unfolds."
 meta_description: "Discover interactive romance books where you choose the heroine’s path to love. Multiple love interests, emotional choices, and happily-ever-afters you control."
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
 
 <div style="text-align:center;">
   <h1><strong>When you choose the love she deserves.</strong></h1>
@@ -57,13 +56,3 @@ The difference is that our heroine has the same, full romance story arc with eac
 ## 📚 Are you ready to Choose Your Own Romance
 
 Ready to choose her love story? Explore the books below and start shaping your own happily ever after.
-
-Instructions for David - All books are in site.book-summary. If book.tag contains this trope name - eg "Choose Your Own Romance" then I want a grid with just the book cover - let me know if I need to make smaller than the current 250 x 300 - alt text and click on the book cover to go to the book summary or click on the "buy now" 
-
-<div class="book-grid">
-  {% for book in site.book-summary.books %}
-    {% if book.tag contains "choose your own romance" %}
-      {% include book-card.html book=book %}
-    {% endif %}
-  {% endfor %}
-</div>

@@ -1,13 +1,12 @@
 ---
 layout: tropes-default
 title: "Second Chance"
+tag: "Second Chance"
 image: trope-banner-second-chance.png
 altText: "banner for second chance romance books by Kenna Shaw Reed"
 description: "Second Chance Romance explores love that didn’t work the first time—but might be stronger the second. Rediscover passion, healing, and emotional depth."
 meta_description: "Fall for Second Chance Romance books that offer redemption, reconnection, and the hope that love can endure. Perfect for readers who believe in love’s resilience."
 ---
-
-Instructions for David. What I want is for when you click on this trope, you see the trope banner - in "image:" above. Then there's the title (centred). 
 
 <div style="text-align:center;"> <h1><strong>Because sometimes love deserves a second chance.</strong></h1> </div>
 
