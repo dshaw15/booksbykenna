@@ -24,13 +24,15 @@ meta_description: "Enemies to lovers. A footballer turned firefighter. A woman w
 
 ## He was a footballer, not a hero. She never wanted to be saved.
 
-Ethan is in Meringa for one reason: football. Not firefighting. Not romance. And definitely not crashing his truck into a fiery local with zero patience and a killer smile.
+**Ethan is in Meringa for one reason: football.**  
+Not firefighting. Not romance. And definitely not crashing his truck into a fiery local with zero patience and a killer smile.
 
-Rylee has no time for arrogant athletes. She’s done with heartbreak, done with men who leave, and done with anyone who thinks they can rescue her. Especially Ethan — who’s sexy, stubborn, and absolutely not her type.
+**Rylee has no time for arrogant athletes.**  
+She’s done with heartbreak, done with men who leave, and done with anyone who thinks they can rescue her. Especially Ethan — who’s sexy, stubborn, and absolutely not her type.
 
 But when the bushfires close in, everything changes. She leaves. He finds her. And the heat between them becomes impossible to ignore.
 
-She fell first. He fell harder. But can two people with nothing in common risk everything for love?
+_She fell first. He fell harder. But can two people with nothing in common risk everything for love?_
 
 **IGNITE** is a steamy, enemies-to-lovers firefighter romance set in the small town of Meringa. Second in the IGNITE series.  
 **Free with Kindle Unlimited.**

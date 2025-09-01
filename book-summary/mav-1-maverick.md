@@ -31,7 +31,9 @@ She’s his best friend’s little sister.
 She’s off-limits.  
 And she’s everything he never thought he deserved.
 
-Sara’s spent years being overlooked—just the wallflower, just Kenzie’s kid sister.  
+Sara’s spent years being overlooked:  
+💋 just the wallflower  
+💋 just Kenzie’s kid sister.  
 But now she’s back from college, and there’s one man she never forgot.
 
 They shouldn’t.  
@@ -43,6 +45,6 @@ If their secret gets out, Maverick could lose his second chance at rugby—and t
 
 _**Playing the Maverick** is a steamy rugby league sports romance featuring forbidden love, secret dating, and a best friend’s sister who refuses to stay in the background._
 
-**Get [Playing the Maverick](https://mybook.to/PlayingTheMaverick) today**
+**Get [Playing the Maverick](https://mybook.to/PlayingTheMaverick) today**  
 **Next in series [Playing the Advantage](https://mybook.to/PlayingtheAdvantage "Playing the Advantage")**  
 **Back to [Southern Mavericks](/series/southern-mavericks "Southern Mavericks") series page**

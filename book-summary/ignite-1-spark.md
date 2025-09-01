@@ -23,21 +23,22 @@ meta_description: "Widowed mother. Loyal best friend. One spark could change eve
 
 ## Some fires burn slow. Others change everything.
 
-Sharalyn Curren is barely holding it together. Three years after losing her husband, she’s still running the family business, raising three daughters, and clinging to the memory of the man she loved. 
+**Sharalyn Curren** is barely holding it together. Three years after losing her husband, she’s still running their family business, raising their three young daughters, and clinging to the memory of the man she loved. 
 
-**_Romance isn’t just off the table—it feels impossible.**_
+_Romance isn’t just off the table—it feels impossible._
 
-Bailey Rexworth has loved Shar since they were kids. He watched her marry his best friend. He carried the coffin. And for three years, he’s stayed in her orbit—loyal, patient, quietly burning.
+**Bailey Rexworth** has loved Shar since they were kids.  
+He watched her marry his best friend.  
+He carried the coffin.  
+And for three years, he’s stayed in her orbit—loyal, patient, quietly burning.
 
-Now the bushfires are closing in on Meringa, and Bailey’s ready to risk everything. Not just his life as a firefighter, but his heart.
+Now the bushfires are closing in on the small town Meringa, and Bailey’s ready to risk everything. Not just his life as a firefighter, but his heart. 
 
-Shar wants to believe in second chances. But her eldest daughter isn’t ready to let go of the past. And Shar isn’t sure she is either.
-
-Can friends become lovers without losing everything they’ve already built? Or will Bailey and Shar be destined to stop at a spark?
+Can an angry young daughter stand in the way of her mother falling in love?  
+Can friends become lovers without losing everything they’ve already built?  
+Or will Bailey and Shar be destined to stop at a spark?
 
 **SPARK** is a slow-burn, friends-to-lovers romance set in a fire-prone Australian town. 
-Book 1 in the IGNITE series.  
-**Free with Kindle Unlimited.**
 
 **Get [SPARK](https://mybook.to/IGNITE-SPARK "SPARK")**  
 **Next in series [IGNITE](https://mybook.to/IGNITE "IGNITE")**  

@@ -24,11 +24,15 @@ meta_description: "A steamy small-town firefighter romance where one spark ignit
 
 ## One spark is all it takes for love to ignite.
 
-Campbell Mettner returns to his seaside hometown of Meringa for a weekend of cold beer and no commitments. But when he walks into a local café and meets Natalia, the fiery owner with no time for love, everything changes.
+Campbell Mettner returned to his seaside hometown of Meringa for a weekend of cold beer and no commitments. But when he walked into a local café and meets Natalia, the fiery owner with no time for love, everything changed.
 
-Natalia poured her life savings into her dream café. Romance wasn’t part of the plan—until Cam, the town’s football legend and firefighting hero, turns her world upside down.
+Natalia poured her life savings into her dream café. Romance wasn’t part of the plan—until Cam, the town’s football legend and firefighting hero, turned her world upside down.
 
-Then the firestorm hits. Cam is thousands of miles away. Natalia is forced to flee. And love might be the only thing worth risking everything for.
+Love by long distance is hard enough. Missed calls. Miscommunication.
+
+Then the firestorm hit. 
+
+Cam is thousands of miles away. Natalia is forced to flee. And love might be the only thing worth risking everything for.
 
 _**MATCH** is a steamy, emotional prequel to the IGNITE series, perfect for fans of insta love, protective firefighters, and survival romance._
 

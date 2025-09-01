@@ -22,19 +22,17 @@ meta_description: "A steamy rugby league romance with a secret baby, second chan
 
 ## One secret baby. One second chance. One woman he swore he’d never forgive.
 
-**Randii** walked away from Dawson Briggs and took a secret with her.
+**Randii** walked away from Dawson Briggs, taking a secret with her.
 
-The press branded her a groupie.  
-The headlines never told the truth.  
-She loved Dawson. Still does.  
-But he deserved a career, not complications.  
-And she deserved a man who could protect her as fiercely as he loves.
+The press branded her a groupie but headlines never tell all the truth.  
+She loved Dawson. Still does. Always will.  
+But he deserves a career, not complications.  
+And she deserves a man who will protect her as fiercely as he loves.
 
-Now her secret is out.  
-And Dawson knows.  
-Will they have a second chance, or will he take away the only person she loves more than him?
+When her secret's out, will they have a second chance, or will Dawson take away the only person she loves more than him?
 
 **Dawson’s** back in the game, chasing a second chance at rugby league glory.
+
 He never stopped loving Randii.  
 But love isn’t enough — not when trust is shattered.  
 She says the child is his.  
@@ -44,7 +42,7 @@ _But forgiveness? That’s harder than any tackle on the field._
 
 He wants his child.  
 He’s not sure he wants the mother.  
-At least, that’s what he tells himself, until the truth blindsides him and he realizes he'll do anything for love.
+Until the truth blindsides him and he realizes he'll do anything for love.
 
 _Playing the Blindside is a steamy rugby league sports romance featuring second chances, a secret baby, and a love story undone by miscommunication and media scandal._
 

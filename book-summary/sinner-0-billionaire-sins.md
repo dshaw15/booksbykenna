@@ -22,14 +22,17 @@ meta_description: "Free billionaire romance prequel to the City Sinners series b
 
 [Billionaire Sins](https://bookhip.com/TNRAJQN/ "Billionaire Sins") is a **Free short billionaire romance prequel** to the _City Sinners_ series.
 
-When tech genius Mason Winters sells his billion-dollar company, he believes he can walk away from his past—and the mistakes that haunt him. _But some sins aren’t easily forgiven._
+When tech genius Mason Winters sells his billion-dollar company, he believes he can walk away from his past — and the mistakes that haunt him. _But some sins aren’t easily forgiven._
 
-Ellin Kenmarre isn’t looking for a knight in shining armor. She wants investors who believe in her revolutionary app—not someone to rescue her. When a legendary coder with smoldering green eyes offers his help, _she tries to focus on the code, not the man_.
+Ellin Kenmarre isn’t looking for a knight in shining armor.  
+She wants investors who believe in her revolutionary app—not someone to rescue her.  
+When a legendary coder with smoldering green eyes offers his help, _she tries to focus on the code, not the man_.
 
-But Mason is hiding more than just his skills. And when the truth comes out, Ellin must decide if she can look past the man Mason has become to see the man he could be again.
+But Mason is hiding more than just his skills.  
+And when the truth comes out, Ellin must decide if she can look past the man Mason has become to see the man he could be again.
 
 _Billionaire Sins is the perfect entry point into the City Sinners series—a story of secrets, redemption, and unexpected love._
 
-**Start here for free** --> Read [Billionaire Sins](https://bookhip.com/TNRAJQN/ "Billionaire Sins") now.  
+**Start here for free --> Read [Billionaire Sins](https://bookhip.com/TNRAJQN/ "Billionaire Sins") now.**  
 **Next in series --> [Broken Trust](https://mybook.to/BrokenTrustErebus "Broken Trust")**  
 **Back to series page --> [City Sinners](/series/city-sinners)**

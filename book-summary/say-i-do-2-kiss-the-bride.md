@@ -51,5 +51,5 @@ If I want her back, I’ll have to fight for the second chance I never thought I
 
 _Kiss the Bride is a steamy second-chance romantic comedy with friends-to-lovers tension, forced proximity, and a runaway bride who finally chooses herself_
 
-**Get [Kiss the Bride](https://mybook.to/KissTheBride/ "Kiss the Bride") today.**
+**Get [Kiss the Bride](https://mybook.to/KissTheBride/ "Kiss the Bride") today.**  
 **Back to series [Say I Do](https://mybook.to/KissTheBride/ "Say I Do")**

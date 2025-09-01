@@ -23,8 +23,7 @@ meta_description: "A single dad. A forbidden romance. A rugby team worth fightin
 
 ## One single dad. One forbidden romance. One rugby team that could change everything.
 
-Bronx Parker lost everything — his marriage, his career, and nearly his daughter because of his-wife's lies.  
-Now he’s rebuilding in secret with the opportunity to coach the new Southern Mavericks rugby league team.
+Bronx Parker lost everything — his marriage, his career, and nearly his daughter because of his-wife's lies. Now he’s rebuilding in secret with the opportunity to coach the new Southern Mavericks rugby league team.
 
 He’s focused. Fierce. Unforgiving.  
 Until Willow Caton walks into his life.

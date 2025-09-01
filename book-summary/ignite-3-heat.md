@@ -22,9 +22,11 @@ meta_description: "Friends to lovers. A firefighter hero. A woman rebuilding her
 
 ## After the flames, can love survive?
 
-Reece found fame for his firefighting courage that saved 100 people trapped in a pub, his charm, and the viral photo that made him the face of hope during the bushfire disaster.  Every woman seems to want him. But the only one he wants has only ever seen him as a friend.
+**Reece** found fame for his firefighting courage that saved 100 people trapped in a pub, his charm, and the viral photo that made him the face of hope during the bushfire disaster.  
+Every woman seems to want him. But the only one he wants has only ever seen him as a friend.
 
-Zoe lost everything in the devastating bushfire — her home, her job, and her sense of purpose. The only reason she’s still in Meringa is Reece. Working side by side to rebuild the town sparks a passion she never expected.
+**Zoe** lost everything in the devastating bushfire — her home, her job, and her sense of purpose.  
+The only reason she’s still in Meringa is Reece. Working side by side to rebuild their small town sparks a passion she never expected. Love out of friendship? She thought that only happened in books.
 
 But when Zoe is offered her dream job thousands of miles away, Reece makes a choice that could cost them everything.
 
@@ -32,9 +34,7 @@ He once said, “Trust me.”
 Can she? Or will their love turn to ash?
 
 **HEAT** is a steamy friends-to-lovers firefighter romance set in the small town of Meringa. Third in the IGNITE series.  
-**Free with Kindle Unlimited.**
 
-
-**Get [HEAT](https://mybook.to/IgniteHEAT "HEAT")**  
+**Get [HEAT](https://mybook.to/IgniteHEAT "HEAT") free with your Kindle Unlimited today**  
 **Have you got your free series starter [MATCH](https://bookhip.com/ZAMBMSD "MATCH")**  
 **Back to **[Series page](/series/ignite)**

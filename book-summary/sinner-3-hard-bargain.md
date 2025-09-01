@@ -24,16 +24,15 @@ buy_now: "https://mybook.to/HardBargain"
 ## When the lights go down, deals are done and only the winner survives
 
 **Ibrahim**  
-To build my nightclub empire, I had to make a deal.
-
-To make the deal, I had to work with the devil.
-
+To build my nightclub empire, I had to make a deal.  
+To make the deal, I had to work with the devil.  
 I never thought his price would be more than I could bear.
 
 Katie was *never* supposed to be part of the bargain. No matter what you think of me or my businesses, I'd never put money and power above the woman I love. But now she’s in the crosshairs, and I’ll burn the city down before I let her pay the price.
 
 **Katie**  
-I trust Ibby with my life. But can I trust him with my heart?
+I trust Ibby with my life.  
+But can I trust him with my heart?
 
 When your best friend is also your boss and secret lover, and his world is filled with dangerous deals, one wrong move can cost everything, even my life.
 

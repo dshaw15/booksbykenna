@@ -10,6 +10,7 @@ image: say-i-do-1-insta-bride.png
 altText: fake marriage romantic comedy book cover for Insta Bride by Kenna Shaw Reed
 tags:
     - "Insta Attraction"
+    - "InstaLove"
     - "Fake Marriage"
     - "Romantic Comedy"
     - "Enemies to Lovers"
@@ -44,6 +45,6 @@ I came for the fame. Now I’m risking it all for the woman I never meant to lov
 
 _Insta Bride is a steamy fake marriage romantic comedy with enemies to lovers heat, forced proximity, and a guaranteed HEA. Perfect for fans of Married at First Sight, The Bachelor, and Love Island._
 
-Then, you'll love **[Insta Bride](https://mybook.to/InstaBride/ "Insta Bride")**
+**Get [Insta Bride](https://mybook.to/InstaBride/ "Insta Bride") free with Kindle Unlimited**  
 **Next in series --> [Kiss The Bride](https://mybook.to/KissTheBride "Kiss The Bride")**   
 **Back to series page --> [Say I Do](/series/say-i-do)**
