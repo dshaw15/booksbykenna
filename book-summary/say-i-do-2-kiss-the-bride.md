@@ -1,6 +1,6 @@
 ---
 layout: book-summary
-title: Kiss The Bride
+title: Kiss the Bride
 slug: kiss-the-bride
 series: Say I Do
 series_order: 2
