@@ -42,7 +42,7 @@
   image: web-banner-romance.png
   altText: romance with passion
   page: series/romance-with-passion
-- title: Free Books
-  image: web-banner-free-books.png
-  altText: free books when you subscribe to my newsletter
-  page: series/free-books
+- title: How does your next fav series start?
+  image: web-banner-series-starters.png
+  altText: Find how your next fav series starts here. Some start with free novellas, others are free with your Kindle Unlimited subscription.
+  page: series/series-starters

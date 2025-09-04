@@ -16,7 +16,13 @@ meta_description: "Discover interactive romance books where you choose the heroi
 ## What is Choose Your Own Romance?
 Choose your own romance puts the power in the reader’s hands — you decide where the story goes and how it ends.  
 
-When Shae’s rockstar first love joins her husband’s band on tour, old sparks fly. Will she stay loyal to her marriage, rekindle her first love, or explore something new with a friend who’s always been there? You decide. Each path offers a complete love story—and you can switch directions anytime.
+_When Shae’s rockstar first love joins her husband’s band on tour, old sparks fly. Will she stay loyal to her marriage, rekindle her first love, or explore something new with a friend who’s always been there?_  
+
+or
+
+_When Susannah discovers her politician husband's affair while watching the breakfast news at her gym, she is devastated and flees. One man finds her. Is their forbidden love rebound or real. When her remorseful husband begs for a second chance, can she believe him? Trust him? Love him again? Or is it time to turn to an old friend who has always loved her?_
+
+You decide. Each path offers a **complete love story** and you can switch directions anytime.
 
 Each option can be read as its own romance. But you can change options during the book, or go back and make different choices. It's up to you, the reader. You pick her path to the love she deserves.
 
@@ -42,7 +48,7 @@ Choose your own romance has all that you love about *love triangles* but you dec
 
 Readers tell me they feel more emotionally invested when the heroine has real choices. It’s not just a twist on the love triangle—it’s a deeper, more immersive way to experience romance.
 
-## Is _Choose Your Own Romance_ like Choices or Episodes?
+## Is _Choose Your Own Romance_ like _Choices_ or _Episodes_?
 
 All interactive books or stories put the reader in control.  
 
