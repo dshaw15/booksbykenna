@@ -1,11 +1,7 @@
-- title: Series Starters
-  image: web-banner-series-starters.png
-  altText: Start at the beginning with these series starter
-  page: series/series-starters
 - title: Southern Mavericks Rugby League Sports Romance
   image: web-banner-southern-mav.png
   altText: Southern Mavericks - rugby league sports romance series
-  page: series/southern-mav
+  page: series/southern-mavericks
 - title: Say I Do
   image: web-banner-say-i-do.png
   altText: Say I Do banterific series
@@ -14,10 +10,6 @@
   image: web-banner-rockstar-dreams.png
   altText: Rockstar Dreams - rockstar romance series featuring heroines with disability
   page: series/rockstar-dreams
-- title: Free Books
-  image: web-banner-free-books.png
-  altText: free books when you subscribe to my newsletter
-  page: series/free-books
 - title: IGNITE
   image: web-banner-ignite.png
   altText: IGNITE series
@@ -38,10 +30,6 @@
   image: web-banner-cyow.png
   altText: choose your own romance complicated marriage series
   page: series/choose-your-own-wive
-- title: Choose your own romance - college love
-  image: web-banner-cyo.png
-  altText: choose your own romance college love series
-  page: series/choose-your-own-romance
 - title: Choose your own rockstar romance
   image: web-banner-cyorr.png
   altText: choose your own rockstar romance series
@@ -54,3 +42,7 @@
   image: web-banner-romance.png
   altText: romance with passion
   page: series/romance-with-passion
+- title: How does your next fav series start?
+  image: web-banner-series-starters.png
+  altText: Find how your next fav series starts here. Some start with free novellas, others are free with your Kindle Unlimited subscription.
+  page: series/series-starters

@@ -4,9 +4,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 special: homepage
-title: Books by Kenna
+title: Books by Kenna Shaw Reed
+subtitle: where love conquers all and women get the heroes they deserve
 featuredDataFile: featured-main
 ---
 # Books by Kenna
 
-How do you like your romances? Heartfelt love with passion? Passion without rules? Or do you want to choose your own ending? Welcome to Books by Kenna where you can match your romance to your mood.
+For lovers of second chance romance, friends to lovers, instalove and insta attraction, Kenna writes the book boyfriends you deserve. 
+
+Don't want to choose between second chance and friends to lovers? Kenna puts you in control of love triangles with her 'choose your own romance' where readers choose the love the women deserve. Start with [The Rockstar's Wife](https://mybook.to/TheRockstarsWife/ "The Rockstar's Wife") today, free with your KindleUnlimited subscription.

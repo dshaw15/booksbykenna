@@ -1,49 +1,44 @@
 ---
 layout: book-summary
 title: The Politician's Wife
+slug: the-politician-wife
+series: Choose Your Own Romance
+series_order: 1
+length: Novel
+rating: Steam Level 3
 image: the-politician-wife.png
-altText: The Politician's Wife
-AMSUSA: https://www.amazon.com/gp/product/B07D67WJ1F/
-AMSAU: https://www.amazon.com.au/gp/product/B07D67WJ1F/
-AMSUK: https://www.amazon.co.uk/gp/product/B07D67WJ1F/
-AMSCA: https://www.amazon.ca/gp/product/B07D67WJ1F/
+altText: choose your own romance interactive romance book cover The Politician's Wife by Kenna Shaw Reed
+tags:
+  - "Choose Your Own Romance"
+  - "Second Chance"
+  - "Friends to Lovers"
+  - "Love Triangle"
+  - "Cheating Spouse"
+  - "Interactive Romance"
+  - "Free with Kindle Unlimited"
+buy_now: "https://mybook.to/ThePoliticiansWife"
+description: "Susannah's perfect life shatters when her politician husband is caught cheating—on camera. Now, three men want her heart: the husband who regrets everything, his chief of staff who’s always loved her, and the billionaire friend who’s ready to be more. In this steamy, interactive romance, you choose Susannah’s happily ever after. Perfect choose your own romance for fans of second chance love, betrayal, and love triangles."
+meta_description: "A steamy interactive romance of betrayal, forgiveness, and second chances. You choose Susannah’s happily ever after. Free with Kindle Unlimited."
+
 ---
 
-## He promised he’d love her forever. Until Susannah discovered it was a politician’s promise and she was only his wife.
+## He promised forever. But forever came with a mistress.
 
-**One woman**
+Susannah thought she knew her husband—until the morning she woke to headlines, betrayal, and the words that shattered her: *“But I love her.”*
 
-**Susannah** woke to see her politician husband the featured news story, caught out with his mistress. When her faithful heart didn’t think it could break any more, he said the words, “but I love her.”
+Now, with her heart in pieces and her marriage in ruins, Susannah must choose between revenge, rebound, or something real. Three men want her. Each offers a different kind of love. But only *you* can decide who deserves her heart.
 
-Hiding from the world won’t make the pain go away. Until one man found her, determined to prove how much he wanted to fill her with a new love. Life could be perfect until her lying, cheating husband is sorry and wants her back. Now she needs help to decide what is Revenge? Rebound or Real?
+**James** wants forgiveness.  
+**Christopher** wants a chance.  
+**Lloyd** wants to be more than just a friend.
 
-**Three men**
+In this steamy, emotionally charged **interactive romance**, *you* control Susannah’s destiny. Will she return to the man who broke her, fall for the one who’s always been there, or risk everything for someone new?
 
-**James** knows his wife sees his flawed self. For years he had affairs with women who see him as confident and successful. He never expected to fall in love or leave his marriage. It only took a week to realise his mistake. He wants Susannah back, but where did her love bites come from?
+**Choose once. Then choose again.**  
+Because when one happily ever after isn’t enough, you get to write the ending.
 
-**Christopher** should be loyal to the man who pays him, but his heart will always belong to his boss’ wife.
+_Perfect for fans of second chance romance, love triangles, and stories of betrayal, healing, and hope._
 
-**Lloyd** knows that all the money in the world can’t buy love. Could one dance on the sand allow him to cross the bridge from their friend-zone?
-
-Taking time out to think and time to decide,  Susannah thought she knew who she wanted. Only for forgotten photos on a phone answer questions she never wanted asked. Will Susannah get the happily ever after she deserves? Will she even have a choice?
-
-**Choose once** Then choose again. These three men send Susannah's head and heart spinning. Who will she end up with? You control Susannah’s romantic destiny in this choose your own romance. After all, when one happily ever after is never enough, Choose Your Own Romance!
-
-**The Politician's Wife is more than a love triangle**. The Politician's Wife is a steamy contemporary romance of love, betrayal and forgiveness where you get to choose Susannah's happily ever after. Make your choice, today.
-
-
-
-#### From the author
-
-> The Politician's Wife was my first choose your own romance series that featured a complicated marriage.
-> 
-> After seeing one too many politicians, footballers, movie stars and other prominent men have their affairs splashed across the media, I wanted to write a book from the wife's perspective. Imagine that she had no idea until watching the news. Imagine the hurt and anger, especially when the man she loves has the balls to say that he loves another. What would she do and who could she trust?
-> 
-> Then I wanted to imagine a scenario when he realizes what he threw away and explore just how far he would go to be the one love in her life, again.
-> 
-> Cheating warning - As Susannah takes her husband's affair as a trigger to explore who she is and what she wants out of life, there are times when she turns to a lover's arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.
-> 
-> I'll be honest, her husband starts off as a lying, cheating b-word, but from the moment he realizes that he truly loves his wife, James is completely committed to winning her back.
-
-
-Other books with Susannah: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty") [The Unforgiving Wife](https://www.amazon.com/gp/product/B07FCR1K6N/ "The Unforgiving Wife") 
+**Get [The Politician's Wife](https://mybook.to/ThePoliticiansWife "The Politician's Wife") free with Kindle Unlimited**  
+**Next in series --> [The Unfaithful Wife](https://mybook.to/UnfaithfulWife "The Unfaithful Wife")**  
+**Back to series page --> [Complicated Marriage](/series/choose-your-own-wife)**

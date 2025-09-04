@@ -5,7 +5,7 @@ layout: default
 
     <div class="row">
         <div class="col-md-4">
-            <img class="img-center" alt="{{ page.altText }}" src="{{site.baseurl}}/images/covers/{{page.image}}" | relative_url }}" />
+            <img class="img-center" alt="{{ page.altText }}" src="{{site.baseurl}}/images/covers/{{page.image}}" />
             <div class="buy-links">
                 <div>
                     {% if page.AMSUSA %} <p><a href="{{ page.AMSUSA }}">Amazon (USA)</a></p> {% endif %}
@@ -13,6 +13,15 @@ layout: default
                     {% if page.AMSUK %} <p><a href="{{ page.AMSUK }}">Amazon (UK)</a></p> {% endif %}
                     {% if page.AMSCA %} <p><a href="{{ page.AMSCA }}">Amazon (Canada)</a></p> {% endif %}
                     {% if page.BF %} <p><a href="{{ page.BF }}">Free book</a></p> {% endif %}
+                    {% if page.buy_now %} <p><a href="{{ page.buy_now }}">Buy now</a></p> {% endif %}
+                    
+                    {% if page.tags %}
+                    <ul class="trope-tags">
+                        {% for tag in page.tags %}
+                            <li><span>{{ tag }}</span></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
                 </div>
             </div>
         </div>

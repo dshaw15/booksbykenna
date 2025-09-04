@@ -1,62 +1,43 @@
 ---
 layout: book-summary
-title: The Unforgiving Wife
+title: "The Unforgiving Wife | Choose Your Own Romance"
+slug: the-unforgiving-wife
+series: Choose Your Own Romance
+series_order: 3
+length: Novel
+rating: Steam Level 3
 image: the-unforgiving-wife.png
-altText: the unforgiving wife
-AMSUSA: https://www.amazon.com/gp/product/B07FCR1K6N/
-AMSAU: https://www.amazon.com.au/gp/product/B07FCR1K6N/
-AMSUK: https://www.amazon.co.uk/gp/product/B07FCR1K6N/
-AMSCA: https://www.amazon.ca/gp/product/B07FCR1K6N/
+altText: choose your own romance interactive romance book cover The Unforgiving Wife by Kenna Shaw Reed
+tags:
+  - "Choose Your Own Romance"
+  - "Second Chance"
+  - "Love Triangle"
+  - "Cheating Spouse"
+  - "Redemption Romance"
+  - "Emotional Healing"
+  - "Interactive Romance"
+  - "Free with Kindle Unlimited"
+buy_now: "https://mybook.to/UnforgivingWife"
+description: "A steamy interactive romance where you choose Juliette’s happily ever after. Betrayal, forgiveness, and emotional healing collide in this second chance love triangle."
+meta_description: "A steamy interactive romance where you choose Juliette’s happily ever after. Betrayal, forgiveness, and emotional healing collide in this second chance love triangle."
 ---
 
-## Juliette knew her husband loved her.
-**But could she could ever forgive him? Or was love to be found in the arms of a new friend?**
+## What if the man who broke your heart was still the love of your life?
 
-“I’m sorry.”  “I want us back.”  “Let’s go away this weekend.”
-“I love you.”  “Please forgive me.”
+Juliette spent twenty years as the loyal corporate wife, loving mother, and best friend. But when her husband’s affair shatters their marriage, Juliette is forced to confront the woman she used to be—and the woman she wants to become.
 
-Each morning, Roland left her a new note. Different words but the same theme. Each night and without fail, he now came home to share the dinner she now ate alone in her room. **It didn’t matter that his affair was over before she found out.** 
+**Roland** regrets everything and will do anything to win her back.  
+**Trent** offers passion, trust, and a week of rediscovering intimacy.  
+**Ric** sees the pain Juliette hides—and wants to help her heal.
 
-**One woman**
+Now Juliette must choose: forgiveness, freedom, or a new kind of love.
 
-For twenty years **Juliette** had been the loyal corporate wife, loving mother and best friend. Now, Juliette longs for the hippy child inside to reclaim the woman she had become. And she might have found just the man to set her soul and body free. Unless her husband can win back her trust.
+In this steamy, emotionally raw **interactive romance**, *you* decide Juliette’s fate. Will she rebuild her marriage, embrace a new lover, or finally choose herself?
 
-**Three men**
+**Choose once. Then choose again.**   
+Because when one happily ever after isn’t enough, you get to write the ending.
 
-**Roland**: In a well-worn cliché, his affair just happened. Unforgivable and inexcusable. Now, he’ll do anything to win back the trust and love of his wife.
-
-What will it take? A lily delivered on the hour for the twenty-four years of marriage with a memory of what they had to lose?
-
-Whatever it takes, and however long it takes. She is the love of his life, now and forever.
-
-**Trent**:  Whatever he expected from the night, he didn’t expect Juliette or her story. Beautiful, sexy as hell, Juliette. Who had him smokin’ hot with one kiss. Who promised to trust him for one week and allow him to show her all the ways love and intimacy can still be hers. 
-
-**Ric**: didn’t need another female client looking to fill her boring days pretending to get in touch with her spirituality through yoga. But from the moment he met Juliette, he wanted to find the source of her deepest pain and help her heal.
-
-
-*For every woman who’s body was changed by childbirth.
-For every woman who’s loved a man who strayed.
-For every woman who has lain awake with tear stained pillows, a marriage at cross roads and a decision to make.
-Was what he did forgivable or will she be the unforgiving wife?*
-
-**Choose once** Then choose again. These three men send Juliette’s head and heart spinning. You control Juliette’s romantic destiny in this choose your own romance. After all, when one happily ever after is never enough, Choose Your Own Romance!
-
-**The Unforgiving Wife** is more than a **love triangle** or even a second chance romance. The Unforgiving Wife is a steamy contemporary romance of love, betrayal and forgiveness where you get to choose Juliette happily ever after. Scroll up and one-click now.
-
-
-
-#### From the author
-
-> A good friend suffered terrible injuries in childbirth. Her marriage couldn't survive without the physical connection she no longer could give her husband.
-> 
-> Can a marriage survive without sex? That's what I wanted to explore in The Unforgiving Wife. Roland loves his wife and only turned to another woman for the physical relief that could save his marriage. This is as much about his redemption as it is Juliette finally ready to face her own fears of emotional and physical intimacy.
->
-> This was a very special book to write, and I hope you enjoy it as much as I did.
-> 
-> Cheating warning - As Juliette takes her husband's affair as a trigger to explore who she is and what she wants out of life, there are times when she turns to a lover's arms. That's the whole point of choose your own romance - taking a woman at a cross road in her life and deciding which man will be her happily ever after.
-> 
-> Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
-
-Other books with Juliette: [The Bad Kitty](https://www.amazon.com/dp/B07N1XZM99/ "The Bad Kitty"); [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife"); [The Perfect Wife](https://www.amazon.com/gp/product/B07NBKTXY9/ "The Perfect Wife") 
-Other books with Roland: [The Unfaithful Wife](https://www.amazon.com/gp/product/B07D91M4Q6/ "The Unfaithful Wife"); [Shattered Hearts](https://www.amazon.com/gp/product/B07NJ5GWST/ "Shattered Hearts")
-Other books with Brynne: [The Perfect Wife](https://www.amazon.com/gp/product/B07NBKTXY9/ "The Perfect Wife")
+_Perfect for fans of second chance romance, cheating redemption arcs, and emotional healing through love._  
+**Get [The Unforgiving Wife](https://mybook.to/TheUnforgivingWife "The Unforgiving Wife") free with Kindle Unlimited today.**  
+**Next in series [The Perfect Wife](https://mybook.to/ThePerfectWifeCYOR "The Perfect Wife")**  
+**Back to series page --> [Complicated Marriage](/series/choose-your-own-wife)**

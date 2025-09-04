@@ -1,0 +1,431 @@
+- cover: christmas-kisses.png
+  altText: fake dating, holiday romance book cover for Christmas Kisses by Kenna Shaw Reed
+  title: Christmas Kisses
+  content: Four banterific, fake dating, holiday romances. Join Pia, Jojo, Abbie and Zara as they find a date for Christmas.
+  page: christmas-kisses
+  tags:
+    - "Fake Dating"
+    - "Romantic Comedy"
+    - "InstaLove"
+    - "Holiday Romance"
+    - "Second Chance"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/ChristmasKissesBook1"
+
+  # SERIES : CITY SINNERS
+
+- cover: sinner-0-billionaire-sins.png
+  altText: secret identity, billionaire romance book for Billionaire Sins by Kenna Shaw Reed
+  title: Billionaire Sins
+  content: A tech billionaire who thought he could hide his sins behind his secret identity, until he met a woman who demanded honesty.
+  page: sinner-0-billionaire-sins
+  tags:
+    - "Secret Identity"
+    - "Workplace Romance"
+    - "Billionaire Romance"
+    - "Free Series Starter"
+  buy_url: "https://bookhip.com/TNRAJQN"
+
+- cover: sinner-1-broken-trust.png
+  altText: secret identity, billionaire romance book for Broken Trust by Kenna Shaw Reed
+  title: Broken Trust
+  content: One mistake cost him his reputation and name. Can Erebus hide his past without losing his future?
+  page: sinner-1-broken-trust
+  tags:
+    - "Secret Identity"
+    - "Friends to Lovers"
+    - "Billionaire Romance"
+    - "InstaLove"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/BrokenTrustErebus"
+
+- cover: sinner-3-hard-bargain.png
+  altText: friends to lovers, billionaire romance book for Hard Bargain by Kenna Shaw Reed
+  title: Hard Bargain
+  content: Ibby thought he was smarter. He thought he had it under control. But when the bikie war hits his nightclubs, it is Katie's life he needs to save.
+  page: sinner-3-hard-bargain
+  tags:
+    - "Friends to Lovers"
+    - "Secret Dating"
+    - "Billionaire Romance"
+    - "Enemies to Lovers"
+    - "Workplace Romance"
+    - "Mafia"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/HardBargain"
+
+- cover: sinner-4-reckless-gamble.png
+  altText: secret identity, enemies to lovers, billionaire romance book for Reckless Gamble by Kenna Shaw Reed
+  title: Reckless Gamble
+  content: GG shouldn't trust her life to the way Scott plays cards. She shouldn't, but she does. For her sake, he cannot lose.
+  page: sinner-4-reckless-gamble
+  tags:
+    - "Secret Identity"
+    - "Enemies to Lovers"
+    - "Billionaire Romance"
+    - "Workplace Romance"
+    - "Mafia"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/RecklessGamble"
+
+- cover: sinner-2-random-fantasies.png
+  altText: secret baby, friends to lovers, billionaire romance book for Random Fantasies by Kenna Shaw Reed
+  title: Random Fantasies
+  content: Forgotten nights. Past regrets. A secret baby that isn't his. Can Darius protect the woman he loves and the baby that isn't his?
+  page: sinner-2-random-fantasies
+  tags:
+    - "Coming Soon"
+  buy_url: 
+
+# SERIES : CHOOSE YOUR OWN ROCKSTAR
+
+- cover: a-rockstar-promise.png
+  title: A Rockstar's Promise
+  series: Choose Your Own Rockstar Romance
+  series_order: 1
+  content: I promised never again. I'd never trust another rockstar with my heart. Then, I met Cruz.
+  page: a-rockstar-promise
+  tags:
+    - "Rockstar Romance"
+    - "Series Starter"
+    - "Insta Attraction"
+    - "Workplace Romance"
+    - "Forced Proximity"
+    - "Love on Tour"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/ARockstarsPromise"
+
+- cover: the-rockstar-wife.png
+  title: The Rockstar's Wife
+  series: Choose Your Own Rockstar Romance
+  series_order: 2
+  content: My rockstar husband doesn’t know the lead singer of his new support band used to be the lead musician to my heart. Can our marriage survive one tour or will Deacon remind me of why I should never have left?
+  page: the-rockstar-wife
+  tags:
+    - "Rockstar Romance"
+    - "Choose Your Own Romance"
+    - "Insta Attraction"
+    - "Love on Tour"
+    - "Second Chance Romance"
+    - "Love Triangle"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/TheRockstarsWife"
+
+# SERIES : CHOOSE YOUR OWN ROMANCE
+
+- cover: the-politician-wife.png
+  altText: choose your own romance The Politician's Wife by Kenna Shaw Reed choose second chance with first love cheating husband or a friends to lovers HEA with her best friend
+  title: The Polician&apos;s Wife
+  series: Choose Your Own Romance
+  series_order: 1
+  content: He promised he&apos;d love her forever. Until Susannah discovered it was a politician&apos;s promise and she was only&hellip;
+  page: the-politicians-wife
+  tags:
+    - "Choose Your Own Romance"
+    - "Second Chance"
+    - "Friends to Lovers"
+    - "Love Triangle"
+    - "Cheating Spouse"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/ThePoliticiansWife"
+
+- cover: the-unfaithful-wife.png
+  altText: choose your own romance The Unfaithful Wife by Kenna Shaw Reed choose second chance with cheating husband or friends to lovers with her best friend
+  title: The Unfaithful Wife
+  series: Choose Your Own Romance
+  series_order: 2
+  content: He hurt her but never expected Nina to cheat. When the truth is discovered, who will YOU choose as Nina's path to love?
+  page: the-unfaithful-wife
+  tags:
+    - "Choose Your Own Romance"
+    - "Second Chance"
+    - "Friends to Lovers"
+    - "Love Triangle"
+    - "Cheating Spouse"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/UnfaithfulWife"
+
+- cover: the-unforgiving-wife.png
+  altText: choose your own romance The Unforgiving Wife by Kenna Shaw Reed choose second chance with her cheating husband or slow burn friends to lovers
+  title: The Unforgiving Wife
+  series: Choose Your Own Romance
+  series_order: 3
+  content: Juliette knew her husband loved her. But could she ever forgive him for his betrayal? Or will she find new love in the arms of a new friend?
+  page: the-unforgiving-wife
+  tags:
+    - "Choose Your Own Romance"
+    - "Second Chance"
+    - "Friends to Lovers"
+    - "Love Triangle"
+    - "Cheating Spouse"
+    - "Redemption Romance"
+    - "Emotional Healing"
+    - "Interactive Romance"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/UnforgivingWife"
+
+- cover: the-perfect-wife.png
+  altText: choose your own romance The Perfect Wife by Kenna Shaw Reed choose second chance with first love or happily ever after with her workaholic husband
+  title: The Perfect Wife
+  series: Choose Your Own Romance
+  series_order: 4
+  content: Brynne never expected to be a corporate widow, but when her soldier-hero ex comes back to town, will she still be The Perfect Wife?
+  page: the-perfect-wife
+  tags:
+    - "Choose Your Own Romance"
+    - "Second Chance"
+    - "Friends to Lovers"
+    - "Love Triangle"
+    - "Cheating Spouse"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/ThePoliticiansWife"
+
+# SERIES : IGNITE
+
+- cover: ignite-0-match.png
+  altText: match, ignite series starter book for Ignite by Kenna Shaw Reed
+  title: MATCH
+  series: IGNITE
+  series_order: 0
+  content: "Before the firestorm, it will only take a MATCH for romance to IGNITE in this small town"
+  page: ignite-0-match
+  tags:
+    - "Small Town Romance"
+    - "InstaLove"
+    - "Firefighter Romance"
+    - "Free Series Starter"
+    - "Australian Romance"
+  buy_url: "https://bookhip.com/ZAMBMSD"
+
+- cover: ignite-1-spark.png
+  altText: spark, book cover for small town friends to lovers romance SPARK by Kenna Shaw Reed
+  title: SPARK
+  series: IGNITE
+  series_order: 1
+  content: "Bailey has loved Shar for half of his life. Three years later, Shar wants to move on from her grief. But will her daughter come in between new love?" 
+  page: ignite-1-spark
+  tags:
+    - "Small Town Romance"
+    - "Friends to Lovers"
+    - "Firefighter Romance"
+    - "Slow Burn Romance"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/IGNITE-SPARK"
+
+- cover: ignite-2-ignite.png
+  altText: ignite, book cover for small town insta attraction romance IGNITE by Kenna Shaw Reed
+  title: IGNITE
+  series: IGNITE
+  series_order: 2
+  content: "Ethan never wanted to be a hero. Rylee never wanted to be saved. When flames come, will he be too late?"
+  page: ignite-2-ignite
+  tags:
+    - "Small Town Romance"
+    - "Insta Attraction"
+    - "Enemies to Lovers"
+    - "Firefighter Romance"
+    - "Free with Kindle Unlimited"  
+  buy_url: "https://mybook.to/IGNITE"
+
+- cover: ignite-3-heat.png
+  altText: heat, book cover for small town friends to lovers firefighter romance HEAT by Kenna Shaw Reed
+  title: HEAT
+  series: IGNITE
+  series_order: 3
+  content: "After the flames, can Reece and Zoe find love?"
+  page: ignite-3-heat
+  tags:
+    - "Small Town Romance"
+    - "Friends to Lovers"
+    - "Firefighter Romance"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/IgniteHEAT"
+
+# SERIES : LOVING THE BAND
+
+- cover: band-0-dirty-blonde.png
+  altText: book cover for Dirty Blonde free prequel to why choose rockstar romance Loving the Band series
+  title: "Dirty Blonde"
+  series: Loving the Band
+  series_order: 0
+  content: "FREE prequel to rockstar why choose series, Loving the Band. When one night stand with a lead singer ends up with Sydney spending lockdown with the band. If Xavier doesn't mind sharing, why should she?"
+  page: band-dirty-blonde
+  tags:
+    - "Why Choose"
+    - "Rockstar Romance"
+    - "One Bed / Forced Proximity"
+    - "Instant Attraction"
+    - "InstaLove"
+    - "Free Series Starter"
+  buy_url: "https://dl.bookfunnel.com/g7gkv4t1th"
+  
+- cover: band-1-seduce.png
+  altText: seducing the band, book cover for why choose rockstar romance Seducing the Band by Kenna Shaw Reed
+  title: Seducing the Band
+  series: Loving the Band
+  series_order: 1
+  content: "It was only supposed to be one night. But now, being loved by five men in lockdown is where I want to be."
+  page: band-seduce
+  tags:
+    - "Why Choose"
+    - "Rockstar Romance"
+    - "One Bed / Forced Proximity"
+    - "Found Family"
+    - "InstaLove"
+    - "Free with Kindle Unlimited"  
+  buy_url: "https://mybook.to/SeducingTheBand"
+
+- cover: band-2-enjoying.png
+  title: Enjoying the Band
+  series: Loving the Band
+  series_order: 2
+  altText: enjoying the band, book cover for why choose rockstar romance Enjoying the Band by Kenna Shaw Reed
+  content: "The competition is real. The concert is days away and Jax isn't the only one messing with my head. Eventually, I'll have to deal with the threats or keep running. Will Xavier or his band even care?"
+  page: band-enjoy
+  tags:
+    - "Why Choose"
+    - "Rockstar Romance"
+    - "One Bed / Forced Proximity"
+    - "Found Family"
+    - "InstaLove"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/EnjoyingTheBand" 
+
+- cover: band-3-reuniting.png
+  title: Reuniting the Band
+  series: Loving the Band
+  series_order: 3
+  altText: reuniting the band, book cover for why choose rockstar romance Reuniting the Band by Kenna Shaw Reed
+  content: "My secret is out. The band is broken. I love them. I broke them. Can I be enough to reunite them, or will my family make my choices once again?"
+  page: band-reunite
+  tags:
+    - "Why Choose"
+    - "Rockstar Romance"
+    - "One Bed / Forced Proximity"
+    - "Found Family"
+    - "InstaLove"
+    - "Free with Kindle Unlimited" 
+  buy_url: "https://mybook.to/ReunitingTheBand"
+
+
+# SERIES : SOUTHERN MAVERICKS RUGBY LEAGUE
+
+- cover: mav-0-coach.png
+  title: Coaching the Mavericks
+  series: Southern Mavericks
+  series_order: 0
+  altText: Coaching the Mavericks by Kenna Shaw Reed rugby league sports romance
+  content: "The career he loves or the woman he loves? The woman he loves or access to his daughter?"
+  page: mav-0-coach
+  tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Forbidden Romance"
+    - "Single Dad"
+    - "Secret Identity"
+    - "Found Family"
+    - "Free Series Starter"
+  buy_url: "https://dl.bookfunnel.com/g5ocialgu3" 
+  
+- cover: mav-1-maverick.png
+  title: Playing the Maverick
+  series: Southern Mavericks
+  series_order: 1
+  altText: Playing the Maverick by Kenna Shaw Reed rugby league sports romance
+  content: Maverick's fallen in love with his best friend's sister but will it cost him a second chance in the career he loves?
+  page: mav-1-maverick
+  tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Forbidden Romance"
+    - "Best Friend's Sister"
+    - "Secret Identity"
+    - "Secret Dating"
+    - "Found Family"
+  buy_url: "https://mybook.to/PlayingTheMaverick" 
+
+- cover: mav-2-advantage.png
+  title: Playing the Advantage
+  series: Southern Mavericks
+  series_order: 2
+  altText: Playing the Advantage by Kenna Shaw Reed rugby league sports romance
+  content: Kenzie lost her job, home, boyfriend - and her dog. Now she's traveling with the new rugby league team and sharing a room with the enemy. Cooper might be sexy af but she's done with love.
+  page: mav-2-advantage
+  tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Insta Attraction | Enemies to Lovers"
+    - "One Bed | Forced Proximity"
+    - "Secret Dating"
+    - "Workplace Romance"
+    - "Found Family"
+  buy_url: "https://mybook.to/PlayingtheAdvantage" 
+
+- cover: mav-3-blindside.png
+  title: Playing the Blindside
+  series: Southern Mavericks
+  series_order: 3
+  altText: Playing the Blindside by Kenna Shaw Reed rugby league sports romance
+  content: Dawson thought it was love until she left. She thought it was over until he discovered her secret. But does he love her or just want his baby?
+  page: mav-3-blindside
+  tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Second Chance Romance"
+    - "Secret Baby"
+    - "Love Triangle"
+    - "Found Family"
+  buy_url: "https://mybook.to/PlayingTheBlindside" 
+
+- cover: mav-x-playing-rucking-hard.png
+  title: Playing Rucking Hard
+  series: Southern Mavericks
+  series_order: 3.5
+  altText: Playing Rucking Hard by Kenna Shaw Reed rugby league sports romance
+  content: One night of freedom. One forbidden mistake. One impossible choice.
+  page: mav-x-playing-rucking-hard
+  tags:
+    - "Sports Romance"
+    - "Rugby League"
+    - "Forbidden Romance"
+    - "Secret Dating"
+    - "Instalove"
+    - "Found Family"
+  buy_url: "https://mybook.to/PlayingRuckingHard"
+
+# SERIES : MILITARY ROMANCE
+
+# SERIES : ROMANCE WITH PASSION
+
+# SERIES : ROCKSTAR DREAMS
+
+# SERIES : SAY I DO
+
+- cover: say-i-do-1-insta-bride.png
+  altText: fake marriage, romantic comedy book cover for Insta Bride by Kenna Shaw Reed
+  title: Insta Bride
+  content: Kye wants money and fame. Elena wants to prove there's no such thing as love. All it takes is a fake marriage to prove love has a sense of humor.
+  page: say-i-do-1-insta-bride
+  tags:
+    - "Insta Attraction"
+    - "Fake Marriage"
+    - "Romantic Comedy"
+    - "Enemies to Lovers"
+    - "One Bed | Forced Proximity"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/InstaBride"
+
+- cover: say-i-do-2-kiss-the-bride.png
+  altText: runaway bride, second chance romance book cover for Kiss the Bride by Kenna Shaw Reed
+  title: Kiss the Bride
+  content: A cheating fiance. A runaway bride. And a best man who never forgot his first love. Is their second chance a rebound or real?
+  page: say-i-do-2-kiss-the-bride
+  tags:
+    - "Second Chance"
+    - "Runaway Bride"
+    - "First Love"
+    - "Holiday Romance"
+    - "Friends to Lovers"
+    - "Free with Kindle Unlimited"
+  buy_url: "https://mybook.to/KissTheBride"
+  

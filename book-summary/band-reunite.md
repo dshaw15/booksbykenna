@@ -1,32 +1,46 @@
 ---
 layout: book-summary
-title: Reuniting the Band - book 3
+title: "Reuniting the Band | Why Choose Forced Proximity Rockstar Romance"
+slug: reuniting-the-band
+series: Loving the Band
+series_order: 0
+length: Novel
+rating: Steam Level 3
 image: band-3-reuniting.png
-altText: reuniting the band - book 3
-AMSUSA: https://www.amazon.com/gp/product/B08BK5PWL3/
-AMSAU: https://www.amazon.com.au/gp/product/B08BK5PWL3/
-AMSUK: https://www.amazon.co.uk/gp/product/B08BK5PWL3/
-AMSCA: https://www.amazon.ca/gp/product/B08BK5PWL3/
+altText: "reuniting the band book cover for a why choose forced proximity rockstar romance in the loving the band series by Kenna Shaw Reed"
+tags:
+    - "Why Choose"
+    - "Rockstar Romance"
+    - "One Bed / Forced Proximity"
+    - "Found Family"
+    - "InstaLove"
+    - "Free with Kindle Unlimited" 
+buy_now: "https://mybook.to/ReunitingTheBand"
+description: "Jax stormed off. Xavier’s been taken. Sydney doesn’t expect to get him back alive. Reuniting the Band is Book Three in a steamy why choose rockstar romance series. With her brother and Ibby by her side, Sydney will risk everything to save the man she loves—and reunite the band that became her found family. Emotional suspense, jealous lovers, and loyalty under fire."
+meta_description: "Jax left. Xavier’s been taken. Sydney will risk everything to save him. Reuniting the Band is a steamy why choose rockstar romance with suspense and redemption."
 ---
 
-## Why Choose one rockstar when you can love them all
+## One woman. Five rockstars. And the man she loves — taken.
 
-_why choose ~ rockstar romance ~ MFM ~ secret identity ~ she's forced to face her past ~ jealous lovers ~ she loves them all ~ kidnapped ~ kindleunlimited_
+The band is broken.  
+My heart is shattered.  
+And Xavier is gone.
 
-**The band is broken. My heart is shattered. Is there anything left to reunite?**
-Eventually, I’m going to have to deal with the threatening texts, or keep running. Only this time, I don’t know if Xavier will find his way out of the bottle long enough to notice, or to care.**
+Kidnapped.  
+No ransom.  
+No clues.  
+Just a trail of threats and a past I thought I’d buried.
 
-**Sydney**
-I never expected my past to find me.
-I never knew how much it would hurt to lose one of my men.
-Now, I'm forced to face a world where women want my men while putting the band I loves back together. Because only by reuniting do we have a chance at the future and love we deserve.
+I don’t expect to get him back alive.  
+But I’m not giving up.
 
-**Xavier**
-Suddenly, I'm a man in demand. Respected by my legendary brother, feted by a world of women, with a rockstar lifestyle mine to take. But my band is being torn apart by our love for a woman. My woman is being torn from my life by her past and there's nothing I can do to save her. But if we don’t find a way to reunite the band, will we even have a future?
+With my protective brother and his friend Ibby by my side, I’ll do whatever it takes to bring Xavier home—even if it means risking everything.  
+Because this band is more than music.  
+They’re mine.   
+And even if Xavier never forgives me, and even if Jax doesn't believe my heart is big enough for them all, I won’t let us fall apart.
 
-Following on from [Seducing the Band](https://www.amazon.com/gp/product/B087YTB5J7/ "Seducing the Band") and [Enjoying the Band](https://www.amazon.com/gp/product/B089QVGGQV/ "Enjoying the Band"), [Reuniting the Band](https://www.amazon.com/gp/product/B08BK5PWL3/ "Reuniting the Band") can be read stand alone and finds one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
-Yes, there's more than one man who wants her.
-Yes, there's loving.
-Yes, Yes, Yes. Get Reuniting the Band, today.
+**Reuniting the Band** is Book Three in *Loving the Band*, a steamy **why choose rockstar romance** series where one woman doesn’t have to choose between the men who love her.  
+Expect emotional suspense, found family, jealous lovers, and a rescue mission that could break them—or bind them forever.
 
-**_Tell me what you want_, Xavier asks.** Find out why in your free, quick read prequel to rockstar reverse harem romances: [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1/ "Dirty Blonde").
+**Get [Reuniting the Band](https://mybook.to/ReunitingTheBand "Reuniting the Band")**  
+**Back to [Loving the Band](/series/loving-the-band)**

@@ -1,36 +1,41 @@
 ---
 layout: book-summary
-title: MATCH - Cam and Talia - a small town first responder romance
+title: "Match | Small Town InstaLove Firefighter Romance"
+slug: match
+series: IGNITE
+series_order: 0
+length: Novella
+rating: Steam Level 2.5
 image: ignite-0-match.png
-altText: MATCH - a small town first responder romance
+altText: "MATCH book cover for a small town first responder instalove romance by Kenna Shaw Reed"
+tags:
+  - "Small Town Romance"
+  - "InstaLove"
+  - "Long Distance Romance"
+  - "Firefighter Romance"
+  - "Protective Firefighter"
+  - "Australian Romance"
+  - "Survival Romance"
+  - "Free Series Starter"
+buy_now: "https://bookhip.com/ZAMBMSD"
+description: "A small-town café owner. A firefighting hero. One spark is all it takes. When Cam returns to Meringa for a weekend escape, he doesn’t expect to fall for Natalia—or face a firestorm that could tear them apart. MATCH is a steamy, emotional prequel to the IGNITE series, perfect for fans of insta love, protective firefighters, and survival romance. Free series starter."
+meta_description: "A steamy small-town firefighter romance where one spark ignites love—and survival. Free prequel to the IGNITE series. Free series starter."
 ---
 
-## Before the firestorm, it will only take a MATCH for romance to IGNITE
+## One spark is all it takes for love to ignite.
 
-[MATCH](https://dl.bookfunnel.com/7odzqk7vkq/ "MATCH")
+Campbell Mettner returned to his seaside hometown of Meringa for a weekend of cold beer and no commitments. But when he walked into a local café and meets Natalia, the fiery owner with no time for love, everything changed.
 
-_free series starter ~ instalove ~ long distance romance ~ australian bushfire ~ small town ~ firefighting hero ~ small town girl ~ risk lives for love_
+Natalia poured her life savings into her dream café. Romance wasn’t part of the plan—until Cam, the town’s football legend and firefighting hero, turned her world upside down.
 
-## This small-town hero just met his MATCH ##
+Love by long distance is hard enough. Missed calls. Miscommunication.
 
-Too young to be head of the family and too old to keep running away, Campbell Mettner returned to his Australian seaside hometown of Meringa for a weekend of cold beer and hot babes. Except, the cold beer came with a hot chili beef burger and a hotter café owner who could just be the reason he was looking for.
+Then the firestorm hit. 
 
-Natalia didn’t have time for living. Not when her new café had already taken all her life savings and all her time. When local football and firefighting hero, Campbell Mettner, sauntered in and turned her world upside down, she dared to hope for a future that included love.
+Cam is thousands of miles away. Natalia is forced to flee. And love might be the only thing worth risking everything for.
 
-But when the firestorm hit and Cam was thousands of miles away, Natalia had to run for her life. Which way did she go, and would Cam even know she’d gone?
+_**MATCH** is a steamy, emotional prequel to the IGNITE series, perfect for fans of insta love, protective firefighters, and survival romance._
 
-Before the firestorm hit, there was a MATCH ready to IGNITE.
-
-**Why I love the IGNITE series - author's note**
-
-*When the rest of the world was celebrating Christmas and the New Year, on the south coast of New South Wales, families clung for survival on boats pushed away from the beach.*
-*This was my country and I felt helpless watching it burn.*
-*I've now lived through two devastating fires. I've seen courage in the face of flames and beauty rise from ash. I saw vision that my cousin live-streamed from his home surrounded by fires as he and his family said their 'good-byes'.*
-*Thanks to an unexpected wind-change, they were saved. Most of their farm was destroyed, but where there is life, there is hope and the chance to rebuild.*
-*The IGNITE series started off as a single book, HEAT, dedicated to those who risk their lives to protect others and brings Reece to life as a true Australian hero.*
-*My survivor guilt and gratitude couldn't be silenced with a single book. Enjoy one, or love them all.*
-
-[MATCH free prequel](https://dl.bookfunnel.com/7odzqk7vkq/ "MATCH free prequel")
-[SPARK](https://mybook.to/IGNITE-SPARK/ "SPARK") - slow burn - Bailey and Shar
-[IGNITE](http://mybook.to/IGNITE/ "IGNITE") - enemies to lovers - Ethan and Rylee (full-length novel)
-[HEAT](http://mybook.to/IgniteHEAT/ "HEAT") - friends to lovers - Reece and Zoe (full-length novel)
+**Get your free series starter [MATCH](https://bookhip.com/ZAMBMSD "MATCH")**  
+**Next in series [SPARK](https://mybook.to/IGNITE-SPARK "SPARK")**  
+**Back to **[Series page](/series/ignite)**

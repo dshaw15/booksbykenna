@@ -1,32 +1,41 @@
 ---
 layout: book-summary
-title: Seducing the Band - book 1
+title: "Seducing the Band | Why Choose Forced Proximity Rockstar Romance"
+slug: seducing-the-band
+series: Loving the Band
+series_order: 1
+length: Novel
+rating: Steam Level 3
 image: band-1-seduce.png
-altText: seducing the band - book 1
-AMSUSA: https://www.amazon.com/gp/product/B087YTB5J7/
-AMSAU: https://www.amazon.com.au/gp/product/B087YTB5J7/
-AMSUK: https://www.amazon.co.uk/gp/product/B087YTB5J7/
-AMSCA: https://www.amazon.ca/gp/product/B087YTB5J7/
+altText: "seducing the band book cover for why choose forced proximity rockstar romance book by Kenna Shaw Reed"
+tags:
+  - "Why Choose"
+  - "Rockstar Romance"
+  - "One Bed / Forced Proximity"
+  - "Found Family"
+  - "InstaLove"
+  - "Free with Kindle Unlimited"  
+buy_now: "https://mybook.to/SeducingTheBand"
+description: "Locked down with a rock band? Yes, please. Seducing the Band is Book One in Loving the Band, a steamy why choose rockstar romance series. Sydney thought it would be one night with Xavier, lead singer of The Flying Monkeys. Instead, she’s stuck on a tour bus with four irresistible men who want her as their muse. Forced proximity, jealous lovers, and found family—she doesn’t have to choose."
+meta_description: "Locked down with four rockstars? Seducing the Band is a steamy why choose romance with jealous lovers, found family, and one unforgettable tour bus."
 ---
 
-## Why Choose one rockstar when you can love them all
+## One tour bus. One lockdown. One woman running from her past—and straight into the arms of the band.
 
-_why choose ~ rockstar romance ~ MFM ~ secret identity ~ she's running from her past ~ they use her as their muse ~ jealous lovers ~ she loves them all ~ steamy ~ kindleunlimited_
+**Sydney**  
+I never meant to fall for Xavier Gallis, lead singer of The Flying Monkeys.  
+It was supposed to be one anonymous night. A reckless escape from the secrets chasing me.
 
-**Running from my past, I never expected one night with The Flying Monkeys' lead singer to find me spending lockdown with the band.**
+Then disaster hit.  
+Now I’m stuck on a tour bus with the entire band—and they’re not just gorgeous, they’re watching me. Wanting me. Loving me.
 
-**Sydney**
-I couldn’t believe my luck.
-Caught on a tour bus with The Flying Monkeys when lockdown happened.
-It was only supposed to be one night with lead singer, Xavier Galis. But now there was nowhere else I wanted to be. 
-Xavier might be my one, but by the end of lockdown, I doubt he’ll be my only.
+Xavier was my first. But he won’t be my only.  
+Because the longer I stay, the harder it is to resist the others.  
+And the more I fall, the closer my past gets to catching up.
 
-**Xavier**
-I've never expected much from life. The younger, forgotten half-brother to Australian rock royalty, I'm used to living from gig to gig. No woman has ever exceeded my one-night limit. Until Sydney. Until lockdown. Until I'm forced to choose between my band and the woman who’s seduced us all.
+**Seducing the Band** is Book One in *Loving the Band*, a steamy **why choose rockstar romance** series where one woman doesn’t have to choose between the men who love her.  
+Expect forced proximity, jealous lovers, found family, and a heroine who’s done running.
 
-The first in the Loving the Band rockstar series, Seducing the Band in Lockdown, has one woman enjoying the love and bodies of Australian rock band, The Flying Monkeys.
-Yes, there's more than one man who wants to love her.
-Yes, there's loving.
-Yes, Yes, Yes. Get Seducing the Band, today.
-
-**_Tell me what you want_, Xavier asks.** Find out why in your free, quick read prequel to rockstar reverse harem romances: [Dirty Blonde](https://dl.bookfunnel.com/87mn2uvtd1/ "Dirty Blonde").
+**Get [Seducing the Band](https://mybook.to/SeducingTheBand "Seducing the Band")**  
+**Next in series [Enjoying the Band](https://mybook.to/EnjoyingTheBand "Enjoying the Band")**  
+**Back to [Loving the Band](/series/loving-the-band)**

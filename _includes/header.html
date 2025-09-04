@@ -1,17 +1,22 @@
 <header class="site-header" role="banner">
   <div class="top-bar">
     <div class="wide-wrapper {{ page.category | downcase }} {{ page.special }}">
-        <nav>
+        <nav class=""main-nav">
             <ul>
-                <li class="home-link"><img src="{{site.baseurl}}/images/kenna-eye.jpg" alt="Kenna icon" class="round"> <a href="{{ "/" | relative_url}}">Books by Kenna</a></li>
-                <li class="my-books"><a href="{{site.baseurl}}/all-books">My books</a></li>
-                <li class="latest-news"><a href="{{site.baseurl}}/news">Latest news</a></li>
+                <li class="home-link">
+                  <img src="{{site.baseurl}}/images/web-banner-kenna-logo.png" alt="Books By Kenna logo" class="round"></li>
+                <li class="all-books"><a href="{{site.baseurl}}/all-books">By Series</a></li>
+                <li class="books-by-trope"><a href="{{site.baseurl}}/books-by-trope">By Trope</a></li>
+                <li class="connect"><a href="{{site.baseurl}}/connect">Let's Connect</a></li>
                 <li class="about"><a href="{{site.baseurl}}/about">About me</a></li>
             </ul>
         </nav>
     </div>
   </div>
   <div class="banner">
-    <h1>{{ page.title }}</h1>
+    <h1 class=""page.title">{{ page.title }}</h1>
   </div>
 </header>
+<a href="{{ item.url | relative_url }}" class="{% if page.url == item.url %}active{% endif %}">
+  {{ item.title }}
+</a>

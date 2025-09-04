@@ -1,25 +1,42 @@
 ---
 layout: book-summary
-title: Coaching the Mavericks - part of the Well Played anthology
+title: Coaching the Mavericks | Rugby League Single Dad Secret Dating Sports Romance
+slug: coaching-the-mavericks
+series: Southern Mavericks
+series_order: 0
+length: Novella
+rating: Steam Level 2.5
 image: mav-0-coach.png
-altText: coaching the mavericks book cover - part of the Well Played anthology
-AMSUSA: https://www.amazon.com/dp/B0CN82WW5B/
-AMSAU: https://www.amazon.com.au/dp/B0CN82WW5B/
-AMSUK: https://www.amazon.co.uk/dp/B0CN82WW5B/
-AMSCA: https://www.amazon.ca/dp/B0CN82WW5B/
+altText: Coaching the Mavericks by Kenna Shaw Reed rugby league sports romance
+tags:
+ - "Sports Romance"
+ - "Rugby League"
+ - "Forbidden Romance"
+ - "Single Dad"
+ - "Secret Identity"
+ - "Found Family"
+ - "Free Series Starter"
+buy_now: "https://dl.bookfunnel.com/g5ocialgu3" 
+description: "A single dad. A forbidden romance. A rugby team that could change everything. Coaching the Mavericks is a steamy sports romance featuring Bronx Parker, a fallen star rebuilding his life in secret. When he falls for his daughter’s teacher, Willow Caton, he must choose between love, legacy, and loyalty. Free series starter for fans of alpha athletes and emotional heat."
+meta_description: "A single dad. A forbidden romance. A rugby team worth fighting for. Coaching the Mavericks is a steamy sports romance. Free series starter." 
 ---
 
-## I'm so excited to share the prequel to my rugby league sports romance series in the Well Played anthology.
+## One single dad. One forbidden romance. One rugby team that could change everything.
 
-_single father ~ daughter's teacher ~ forbidden love ~ age gap ~ secret job ~ sports romance anthology_
+Bronx Parker lost everything — his marriage, his career, and nearly his daughter because of his-wife's lies. Now he’s rebuilding in secret with the opportunity to coach the new Southern Mavericks rugby league team.
 
-Bronx Parker’s life shattered when his ex-wife’s betrayal not only cost him his career but nearly his daughter. 
-Determined to rebuild, he seizes the opportunity to coach a new rugby league team, the Southern Mavericks, under a veil of secrecy. 
-When he meets Willow Caton, his daughter’s caring and gorgeous teacher, he dares to dream of a love and career he thought were lost forever. But as Bronx finds himself torn between maintaining access to his beloved daughter and pursuing a future with the woman who has claimed his heart, he faces an impossible choice. 
+He’s focused. Fierce. Unforgiving.  
+Until Willow Caton walks into his life.
 
-Will he risk everything for a chance at true happiness, or will he be left with nothing at all?
+She’s his daughter’s teacher.  
+She’s off-limits.  
+And she’s the first woman who’s made him feel again.
 
-Book 0 in the Southern Mavericks rugby league sports series is only available in the Well Played anthology.
-Book 1, **[Playing the Maverick](https://www.amazon.com/dp/B0CW185J8H/ "Playing the Maverick")** and Book 2, **[Playing the Advantage](https://www.amazon.com/dp/B0CWTFJCXP/ "Playing the Advantage")** are available free with your KindleUnlimited subscription.
+As the Mavericks get closer to reality, and the DNA results are against him, the stakes have never been higher.  
+Bronx must choose between fighting to remain in his daughter's life, reclaiming his career, and claiming the woman who’s stolen his heart.
 
-**Well Played** is the first sports romance anthology from the Romance Cafe Publishing. **Get [Well Played](https://www.amazon.com/dp/B0CN82WW5B/ "Well Played") today.**
+**Coaching the Mavericks** is a steamy **rugby league sports romance** featuring a loving single dad, forbidden love, and a team worth fighting for.  
+
+**Get free series starter [Coaching the Mavericks](https://dl.bookfunnel.com/g5ocialgu3 "Coaching the Mavericks") today.**  
+**Next in series [Playing the Maverick](https://mybook.to/PlayingTheMaverick)**  
+**Back to [Southern Mavericks](/series/southern-mavericks "Southern Mavericks") series page**

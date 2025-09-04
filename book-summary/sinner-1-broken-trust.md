@@ -1,43 +1,52 @@
 ---
 layout: book-summary
-title: Broken Trust - City Sinners Book 1 - Erebus
+title: "Broken Trust | Secret Identity Billionaire Romance"
+slug: broken-trust
+series: City Sinners
+series_order: 1
+length: Novel
+rating: Steam Level 3
 image: sinner-1-broken-trust.png
-altText: broken trust
-AMSUSA: https://www.amazon.com/gp/product/B07FCXFKGH/
-AMSAU: https://www.amazon.com.au/gp/product/B07FCXFKGH/
-AMSUK: https://www.amazon.co.uk/gp/product/B07FCXFKGH/
-AMSCA: https://www.amazon.ca/gp/product/B07FCXFKGH/
+altText: "Broken Trust - a secret identity billionaire romance broken trust by Kenna Shaw Reed"
+description: "Broken Trust is a secret identity billionaire romance set in a small town. Can bad boy Erebus outrun his past to win Felicity's heart, or will his secrets destroy their love?"
+meta_description: "Broken Trust by Kenna Shaw Reed — a steamy secret identity billionaire romance. A bad boy’s past threatens his shot at love in this small-town, second chance story."
+buy_now: https://mybook.to/BrokenTrustErebus"
+tags:
+    - "Secret Identity"
+    - "Billionaire Romance"
+    - "Small Town Romance"
+    - "InstaLove"
+    - "Bad Boy Romance"
+    - "Redemption Romance"
+    - "Free with Kindle Unlimited"
 ---
 
-## Can Erebus hide his past without destroying his future?
+## Can a dangerous bad boy find redemption and a second chance at love in a small town?
 
-**Erebus**
-Four years ago, I had it all.
-Women, money, power and ego. Before one wrong move lost it all.
-Forced to change my name, I used my body to pay my debts. Yes, you can judge my morals but my parents didn't deserve to lose their life savings because they trusted their son, and my body was the only asset I had to use.
-Now, I've found a new town and one woman to love. But one lie is leading to another and eventually, all roads will lead to the truth.
-If Felicity finds out, I'll lose the woman I never deserved.
+**Erebus**  
+Four years ago, I had it all: money, women, power, and the ego to match.
+One reckless mistake destroyed everything.
 
-**Felicity**
-I was always the good girl. Until the mysterious Mr. E. walked into my life.
-His body can command a room as quickly as his eyes can command my heart.
-Only he's hiding a secret and I'm terrified of learning his truth.
-After all, Erebus could have any woman. Why would he want just me?
+To protect my parents, I changed my name and sold the only thing I had left—my body.  
+_It paid the debt, but it cost me my soul._
 
+Now I’m in a new town, building a quiet life, and I’ve met Felicity—the kind of woman a man could love forever.
 
-Felicity never wanted to love a bad boy. But Erebus stole her heart from their first kiss. If you love your alpha males, you'll want to know the real Erebus and get **Broken Trust** today.
+But my past isn’t gone. Every lie I’ve told her is one step closer to the truth.  
+Believe me, when the truth comes out, I’ll lose the woman I never deserved.
 
-Cheating warning - Broken Trust starts with Erebus leaving after a night "working" and realizing that with his debts paid, it is time to close down this chapter of his life. 
+**Felicity**  
+I’ve always been the good girl. At least until the mysterious Mr. E walked into my world.
+Strong. Magnetic. Dangerous.  
+He could command a room with his presence, and my heart with one look.
 
-Even though my books are grouped into series, there is no "right" entry and each book can be read stand-alone. 
+But he’s hiding something. And when I find out what it is, I might lose him forever.
+Because a man like Erebus could have any woman. Why would he want me?
 
-**Why I loved Erebus and Felicity - author's note**
-Why do 'good girls' love 'bad boys'? 
-That's a question that I keep asking myself. What is it about them that makes us want to 'fix' them, especially when they don't want to be fixed.
-Erebus doesn't want to be fixed. He owns the mistakes he made, and has put his ego and reputation aside to save his parent's home. He's finally ready to move on with his life but what if he can't?
-Have you made a mistake that people can never forgive? Alternatively, are there hard limits to what you will and won't forgive?
-That's what I wanted to explore with Erebus and Felicity. Not only did I want to see his personal growth, I wanted to challenge Felicity on who she thought she was.
-I've come back and rewritten Broken Trust twice. I've recovered the book more than that. Now, he is as perfect on the page as he has always been in my heart. 
-And if you love Felicity and Erebus as much as I do, then check out the IGNITE series. That's right. Not only is Erebus going to search for his missing billion throughout **City Sinners**, but his new home in Meringa is about to be hit by a devastating bushfire. Get to know the small town firefighting heroes in **IGNITE**
+_If you love alpha male romance, second chance love stories, and bad boy redemption arcs, you’ll fall for Felicity and Erebus in Broken Trust — a steamy small-town romance filled with passion, secrets, and a fight for love that could cost everything._
 
-Get [Broken Trust](https://mybook.to/BrokenTrustErebus/ "Broken Trust") today.
+Cheating Warning: This romance begins with Erebus leaving the final night of his _work_. His debts are paid, but his past isn’t done with him yet.
+
+**Get [Broken Trust](https://mybook.to/BrokenTrustErebus/ "Broken Trust") today.**  
+**Next in series --> [Hard Bargain](https://mybook.to/HardBargain "Hard Bargain")**   
+**Back to series page --> [City Sinners](/series/city-sinners)**

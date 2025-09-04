@@ -1,15 +1,25 @@
+<!-- _includes/featured-titles.html -->
 <div class="featured-titles">
-    <ul class="collection col-xs-24 fit">
-        {% for book in site.data[page.featuredDataFile] %}
-            <li class="book col-12 col-sm-6 col-lg-3">
-                <a href="{{ site.baseurl }}/book-summary/{{ book.page }}.html" title="">
-                    <div class="img-book-cover" style="background-image: url('{{ site.baseurl }}/images/covers/{{ book.image }}');"></div>
-                </a>
-                <p></p>
-                <p>{{ book.content }}</p>
-                <p class="text-center"><strong>{{ book.title }}</strong></p>
-                <p class="text-center link"><a class="read-more" href="{{ site.baseurl }}/book-summary/{{ book.page }}.html" title="Read More">Read More</a></p>
-            </li>
-        {% endfor %}
-    </ul>
+  <!--{% assign shuffled_books = site.data.books | sample: 3 %}-->
+  {% for book in site.data.featured[page.featuredDataFile] %}
+    <div class="book-card">
+      <a href="/book-summary/{{ book.page }}">
+        <img src="/images/covers/{{ book.cover }}" alt="{{ book.title }} cover">
+      </a>
+      <div class="content">
+        <h3>{{ book.title }}</h3>
+        <p>{{ book.content }}</p>
+        {% if book.tags != nil && book.tags.count > 0 %}
+        <ul class="trope-tags">
+          {% for tag in book.tags %}
+            <li><span>{{ tag }}</span></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        {% if book.buy_url != nil %}
+        <a class="buy-button" href="{{ book.buy_url }}">Buy Now</a>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
 </div>
