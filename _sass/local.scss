@@ -57,6 +57,14 @@ a:hover {
   gap: 1.5rem;
 }
 
+@media (max-width: 629px) {
+  .site-header nav ul {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
 .site-header nav a {
   font-weight: 600;
 }
@@ -65,6 +73,7 @@ a:hover {
   border-radius: 50%;
   height: 200px;
   width: 200px;
+  min-width: 200px;
   vertical-align: middle;
   margin-right: 0.5rem;
 }
